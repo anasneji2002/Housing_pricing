@@ -21,6 +21,10 @@ jobs:
         conda env create -f environment.yml
         source $CONDA/bin/activate Housing_pricing
 
+    - name: Activate the conda env
+      run: |
+        source $CONDA/bin/activate Housing_pricing
+
     - name: Run tests
       run: |
         pytest
