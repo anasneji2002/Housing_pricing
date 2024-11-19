@@ -28,7 +28,7 @@ jobs:
     - name: Run tests
       run: |
         conda install pytest --yes
-        source pytest
+        pytest
 
     - name: Block PR if tests fail
       if: ${{ failure() }}
