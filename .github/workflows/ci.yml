@@ -27,6 +27,7 @@ jobs:
 
     - name: Run tests
       run: |
+        conda install pytest
         pytest
 
     - name: Block PR if tests fail
