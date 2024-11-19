@@ -16,7 +16,7 @@ jobs:
     - name: Set up Conda
       uses: conda-incubator/setup-miniconda@v2
       with:
-        conda-version: '4.10.3'  # Use a specific version of Conda
+        conda-version: '24.9.1'  # Use a specific version of Conda
         python-version: '3.12'    # Python version
         auto-activate-base: false # Prevent activation of base Conda environment
         channel-priority: false
