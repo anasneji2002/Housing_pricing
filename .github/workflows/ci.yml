@@ -13,18 +13,13 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Set up Conda
-      uses: conda-incubator/setup-miniconda@v2
-      with:
-        conda-version: '24.9.1'  # Use a specific version of Conda
-        python-version: '3.12'    # Python version
-        auto-activate-base: false # Prevent activation of base Conda environment
-        channel-priority: false
+    - name: add conda to PATH
+      run: echo "##vso[task.prependpath]$CONDA/bin"
 
     - name: Create Conda environment from environment.yml and activate it
       run: |
         conda env create -f environment.yml
-        source activate /usr/share/miniconda/envs/Housing_price
+        source $CONDA/bin/activate Housing_price
 
     - name: Run tests
       run: |
