@@ -23,7 +23,7 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest
+        python -m pytest
 
     - name: Block PR if tests fail
       if: ${{ failure() }}
