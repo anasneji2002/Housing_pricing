@@ -14,8 +14,9 @@ my_ml_project/
 │   ├── raw/                  # Raw, unprocessed data
 │   ├── processed/            # Processed/cleaned data
 ├── notebooks/                # Jupyter notebooks for exploration and prototyping
-├── src/\n
+├── src/
 │   ├── __init__.py           # Marks src as a package
+|   ├── main.py
 │   ├── data/                 # Scripts for data processing
 │   │   ├── __init__.py
 │   │   └── load_data.py
