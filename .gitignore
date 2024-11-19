@@ -1,0 +1,40 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+ENV/
+.ENV/
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Model checkpoints (if any)
+model_checkpoints/
+*.h5
+*.pkl
+
+# Temporary files
+*.bak
+*.swp
+
+# Operating System files (macOS/Windows-specific)
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+*.env
+
+# Configuration files for IDEs
+*.iml
