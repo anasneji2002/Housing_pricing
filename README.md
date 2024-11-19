@@ -56,9 +56,18 @@ cd <repository_name>
 ### **2. Create a Virtual Environment and install Dependencies**
 ```bash
 conda env create -f environment.yml
+conda activate
 ```
 
-### **3. Run the Project**
+### **3. Set Up Data Directories**
+Create the following directories (if not already created):
+```bash
+mkdir data/raw
+mkdir data/processed
+mkdir notebooks
+```
+
+### **4. Run the Project**
 Run the main script to start the project:
 ```bash
 python src/main.py
