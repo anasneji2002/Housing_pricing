@@ -1,4 +1,3 @@
-# Import everything from the src package (i.e., from all the __init__.py files)
 from src import *
 
 def main():
