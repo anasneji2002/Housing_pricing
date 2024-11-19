@@ -24,7 +24,7 @@ jobs:
     - name: Create Conda environment from environment.yml and activate it
       run: |
         conda env create -f environment.yml
-        source activate Housing_price
+        source activate /usr/share/miniconda/envs/Housing_price
 
     - name: Run tests
       run: |
