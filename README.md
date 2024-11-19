@@ -1,6 +1,6 @@
-# Machine Learning Project
+# Housing pricing
 
-This repository contains the implementation of a machine learning project designed for data processing, feature engineering, model training, evaluation, and visualization.
+This repository contains the implementation of a machine learning project designed for data processing, feature engineering, model training, evaluation, and visualization in order to predict the price of houses in Grand Tunis area.
 
 ---
 
@@ -8,17 +8,18 @@ This repository contains the implementation of a machine learning project design
 
 The repository is structured as follows:
 
+```
 my_ml_project/
 ├── data/
 │   ├── raw/                  # Raw, unprocessed data
 │   ├── processed/            # Processed/cleaned data
 ├── notebooks/                # Jupyter notebooks for exploration and prototyping
-├── src/
+├── src/\n
 │   ├── __init__.py           # Marks src as a package
 │   ├── data/                 # Scripts for data processing
 │   │   ├── __init__.py
 │   │   └── load_data.py
-│   ├── features/             # Feature engineering scripts
+│   ├── features/             # Feature engineering scripts 
 │   │   ├── __init__.py
 │   │   └── build_features.py
 │   ├── models/               # Model training and evaluation scripts
@@ -36,6 +37,7 @@ my_ml_project/
 ├── Dockerfile                # Docker configuration for containerization
 ├── environment.yml           # Conda environment specification
 ├── README.md                 # Project overview and instructions
+```
 
 ---
 
