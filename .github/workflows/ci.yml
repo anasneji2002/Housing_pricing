@@ -27,6 +27,7 @@ jobs:
 
     - name: Activate Conda environment
       run: |
+        conda init
         conda activate Housing_price
 
     - name: Run tests
