@@ -19,6 +19,7 @@ jobs:
         conda-version: '4.10.3'  # Use a specific version of Conda
         python-version: '3.12'    # Python version
         auto-activate-base: false # Prevent activation of base Conda environment
+        channel-priority: false
 
     - name: Create Conda environment from environment.yml
       run: |
