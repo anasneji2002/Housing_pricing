@@ -12,7 +12,7 @@ The repository is structured as follows:
 Housing_pricing/
 ├── data/
 │   ├── raw/                  # Raw, unprocessed data
-│   ├── processed/            # Processed/cleaned data
+│   └── processed/            # Processed/cleaned data
 ├── notebooks/                # Jupyter notebooks for exploration and prototyping
 ├── src/
 │   ├── __init__.py           # Marks src as a package
@@ -34,7 +34,7 @@ Housing_pricing/
 │   ├── test_features.py      # Tests for feature engineering
 │   └── test_models.py        # Tests for model training
 ├── .github/                  # GitHub configuration (optional, e.g., CI/CD workflows)
-|   ├── workflows             # GitHub actions (pipelines)
+|   └── workflows             # GitHub actions (pipelines)
 ├── .gitignore                # Files and folders to ignore in version control
 ├── Dockerfile                # Docker configuration for containerization
 ├── environment.yml           # Conda environment specification
