@@ -9,7 +9,7 @@ This repository contains the implementation of a machine learning project design
 The repository is structured as follows:
 
 ```
-my_ml_project/
+Housing_pricing/
 ├── data/
 │   ├── raw/                  # Raw, unprocessed data
 │   ├── processed/            # Processed/cleaned data
@@ -34,6 +34,7 @@ my_ml_project/
 │   ├── test_features.py      # Tests for feature engineering
 │   └── test_models.py        # Tests for model training
 ├── .github/                  # GitHub configuration (optional, e.g., CI/CD workflows)
+|   ├── workflows             # GitHub actions (pipelines)
 ├── .gitignore                # Files and folders to ignore in version control
 ├── Dockerfile                # Docker configuration for containerization
 ├── environment.yml           # Conda environment specification
@@ -49,8 +50,8 @@ Follow these steps to set up the project on your local machine:
 ### **1. Clone the Repository**
 First, clone this repository to your local machine:
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/anasneji2002/Housing_pricing.git
+cd Housing_pricing
 ```
 
 ### **2. Create a Virtual Environment and install Dependencies**
