@@ -12,61 +12,27 @@ jobs:
       max-parallel: 5
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0  # Fetch all history for proper merging
-      - name: Set up test branch
-        run: |
-          # Define branch names
-          SOURCE_BRANCH=${{ github.head_ref }}
-          TARGET_BRANCH=${{ github.base_ref }}
-          TEST_BRANCH="test-merge-${SOURCE_BRANCH}-into-${TARGET_BRANCH}"
-
-          echo "Source branch: $SOURCE_BRANCH"
-          echo "Target branch: $TARGET_BRANCH"
-
-          # Fetch source and target branches
-          git fetch origin $SOURCE_BRANCH
-          git fetch origin $TARGET_BRANCH
-
-          # Checkout the target branch and ensure it's up-to-date
-          git checkout $TARGET_BRANCH
-          git pull origin $TARGET_BRANCH
-
-          # Create a test branch from the target branch
-          git checkout -b $TEST_BRANCH
-
-          # Merge the source branch into the test branch
-          git merge --no-ff origin/$SOURCE_BRANCH || {
-            echo "Merge conflicts detected. Aborting.";
-            exit 1;
-          }
-
-          # Push the test branch (optional, for debugging)
-          git push origin $TEST_BRANCH
-
-          echo "Switched to test branch $TEST_BRANCH."
-      - name: Set up Python 3.12
-        uses: actions/setup-python@v3
-        with:
-          python-version: '3.12'
-      - name: Add conda to system path
-        run: |
-          # $CONDA is an environment variable pointing to the root of the miniconda directory
-          echo $CONDA/bin >> $GITHUB_PATH
-      - name: Install dependencies
-        run: |
-          conda env update --file environment.yml --name base
-      - name: Test with pytest
-        run: |
-          conda install pytest
-          if find . -type f \( -name "test_*.py" -o -name "*_test.py" \) -exec grep -q "^def test_" {} +; then
-            echo "Non-empty test files found. Running pytest..."
-            pytest
-          else
-              echo "No valid tests to run (files are missing or empty)."
-          fi
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.12'
+    - name: Add conda to system path
+      run: |
+        # $CONDA is an environment variable pointing to the root of the miniconda directory
+        echo $CONDA/bin >> $GITHUB_PATH
+    - name: Install dependencies
+      run: |
+        conda env update --file environment.yml --name base
+    - name: Test with pytest
+      run: |
+        conda install pytest
+        if find . -type f \( -name "test_*.py" -o -name "*_test.py" \) -exec grep -q "^def test_" {} +; then
+          echo "Non-empty test files found. Running pytest..."
+          pytest
+        else
+            echo "No valid tests to run (files are missing or empty)."
+        fi
 
 
   
