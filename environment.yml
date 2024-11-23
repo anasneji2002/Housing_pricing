@@ -8,3 +8,5 @@ dependencies:
   - matplotlib
   - seaborn
   - pytest
+  - pre-commit
+  - flake8
