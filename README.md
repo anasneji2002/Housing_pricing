@@ -35,7 +35,9 @@ Housing_pricing/
 │   └── test_models.py        # Tests for model training
 ├── .github/                  # GitHub configuration (optional, e.g., CI/CD workflows)
 |   └── workflows             # GitHub actions (pipelines)
+├── .flake8                   # Flake8 config file
 ├── .gitignore                # Files and folders to ignore in version control
+├── .pre-commit-config.yaml   # pre commit hooks file
 ├── Dockerfile                # Docker configuration for containerization
 ├── environment.yml           # Conda environment specification
 ├── README.md                 # Project overview and instructions
@@ -57,6 +59,8 @@ cd Housing_pricing
 ### **2. Create a Virtual Environment and install Dependencies**
 ```bash
 conda env create -f environment.yml
+# install the pre-commit hooks
+pre-commit install
 conda activate
 ```
 
