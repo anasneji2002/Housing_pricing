@@ -61,7 +61,8 @@ cd Housing_pricing
 conda env create -f environment.yml
 # install the pre-commit hooks
 pre-commit install
-conda activate
+conda activate Housing_pricing
+# in case it didn't work run conda ini then close and re-open the terminal 
 ```
 
 ### **3. Set Up Data Directories**
