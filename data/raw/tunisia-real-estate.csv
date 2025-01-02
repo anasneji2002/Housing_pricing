@@ -64,8 +64,6 @@
 62,tunis,ouerdia,El Ouerdia,Sale,4-room apartment,130.0,195000.0,21/09/2023
 63,tunis,ettahrir,Ettahrir,Sale,3-room apartment,75.0,200000.0,28/10/2023
 64,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,102.0,299000.0,15/10/2023
-65,tunis,bab bhar,Bab Bhar,Sale,3-room apartment,1.0,135000.0,22/07/2023
-66,tunis,ouerdia,El Ouerdia,Sale,3-room apartment,75.0,9500000.0,17/11/2023
 67,tunis,omrane superieur,El Omrane Superieur,Sale,3-room apartment,80.0,200000.0,02/10/2023
 68,tunis,marsa,La Marsa,Sale,4-room apartment,179.0,398000.0,26/11/2023
 69,tunis,bardo,Le Bardo,Sale,2-room apartment,45.0,130000.0,24/11/2023
@@ -161,7 +159,6 @@
 159,ben arous,mourouj,El Mourouj,Sale,3-room apartment,95.0,115000.0,10/10/2023
 160,tunis,marsa,La Marsa,Sale,4-room apartment,135.0,360000.0,06/06/2023
 161,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,80.0,75000.0,05/08/2023
-162,ariana,soukra,La Soukra,Sale,2-room apartment,1.0,210000.0,06/01/2023
 163,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,158.0,355000.0,05/06/2023
 164,tunis,marsa,La Marsa,Sale,2-room apartment,100.0,250000.0,20/11/2023
 165,tunis,marsa,La Marsa,Sale,3-room apartment,117.0,380000.0,28/08/2023
@@ -240,7 +237,6 @@
 238,ariana,ariana ville,Ariana Ville,Sale,5-room apartment and more,200.0,530000.0,20/10/2023
 239,ben arous,hammam chott,Hammam Chatt,Sale,4-room apartment,135.0,250000.0,10/08/2022
 240,ben arous,mourouj,El Mourouj,Sale,5-room apartment and more,150.0,340000.0,18/09/2023
-241,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,12910.0,300000.0,02/12/2023
 242,tunis,marsa,La Marsa,Sale,3-room apartment,212.0,790000.0,25/01/2023
 243,ariana,soukra,La Soukra,Sale,3-room apartment,235.0,820000.0,29/11/2023
 244,ben arous,mourouj,El Mourouj,Sale,3-room apartment,128.0,195000.0,03/10/2023
@@ -270,7 +266,6 @@
 268,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,132.0,422000.0,27/10/2023
 269,ben arous,medina jedida,Nouvelle Medina,Sale,3-room apartment,98.0,175000.0,06/12/2023
 270,tunis,marsa,La Marsa,Sale,4-room apartment,190.0,480000.0,13/07/2023
-271,ben arous,boumhel el bassatine,Bou Mhel El Bassatine,Sale,3-room apartment,716.0,453000.0,16/11/2023
 272,ariana,soukra,La Soukra,Sale,4-room apartment,135.0,280000.0,05/12/2023
 273,ariana,mnihla,Mnihla,Sale,5-room apartment and more,450.0,1800000.0,24/08/2023
 274,ariana,soukra,La Soukra,Sale,4-room apartment,132.0,310000.0,19/05/2023
@@ -292,7 +287,6 @@
 290,tunis,cite el khadra,Cite El Khadra,Sale,5-room apartment and more,178.0,385000.0,27/05/2023
 291,tunis,marsa,La Marsa,Sale,2-room apartment,78.0,215000.0,01/09/2023
 292,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,187.0,467000.0,05/12/2023
-293,tunis,marsa,La Marsa,Sale,2-room apartment,736.0,510000.0,30/11/2023
 294,ben arous,mourouj,El Mourouj,Sale,3-room apartment,100.0,200000.0,06/09/2023
 295,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,180.0,400000.0,31/10/2023
 296,tunis,sidi el bechir,Sidi El Bechir,Sale,3-room apartment,98.0,200000.0,14/04/2022
@@ -347,8 +341,6 @@
 345,tunis,bab bhar,Bab Bhar,Sale,2-room apartment,207.0,340000.0,25/08/2023
 346,tunis,marsa,La Marsa,Sale,4-room apartment,183.0,1006000.0,16/11/2023
 347,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,170.0,730000.0,10/10/2023
-348,ben arous,mourouj,El Mourouj,Sale,1-room apartment,180000.0,180000.0,22/11/2023
-349,manouba,mannouba,Mannouba,Sale,4-room apartment,100.0,2350000.0,13/09/2023
 350,ariana,ariana ville,Ariana Ville,Sale,5-room apartment and more,250.0,320000.0,28/09/2023
 351,ben arous,rades,Rades,Sale,2-room apartment,75.0,100000.0,20/11/2023
 352,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,105.0,400000.0,25/11/2023
@@ -363,11 +355,9 @@
 361,ben arous,medina jedida,Nouvelle Medina,Sale,3-room apartment,122.0,220000.0,08/11/2023
 362,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,135.0,675000.0,22/10/2023
 363,tunis,ain zaghouan,Ain Zaghouan,Sale,1-room apartment,80.0,280000.0,07/07/2023
-364,tunis,menzah,El Menzah,Sale,4-room apartment,1.0,245000.0,28/11/2023
 365,tunis,menzah,El Menzah,Sale,4-room apartment,147.0,330000.0,07/09/2023
 366,ariana,soukra,La Soukra,Sale,3-room apartment,95.0,175000.0,06/11/2023
 367,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,156.0,260000.0,24/11/2023
-368,tunis,marsa,La Marsa,Sale,3-room apartment,1.0,400000.0,13/10/2023
 369,tunis,la goulette,La Goulette,Sale,1-room apartment,69.0,165000.0,28/09/2023
 370,ben arous,ben arous,Ben Arous,Sale,5-room apartment and more,345.0,330000.0,31/03/2023
 371,ariana,raoued,Raoued,Sale,4-room apartment,150.0,400000.0,22/09/2023
@@ -399,13 +389,10 @@
 397,manouba,douar hicher,Douar Hicher,Sale,2-room apartment,75.0,95000.0,21/11/2023
 398,tunis,marsa,La Marsa,Sale,4-room apartment,107.0,260000.0,11/11/2023
 399,ben arous,mourouj,El Mourouj,Sale,5-room apartment and more,410.0,750000.0,28/09/2023
-400,ben arous,fouchana,Fouchana,Sale,2-room apartment,110.0,98000.0,12/06/2020
-401,tunis,marsa,La Marsa,Sale,5-room apartment and more,780.0,2400000.0,28/04/2022
 402,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,87.0,437000.0,22/10/2023
 403,tunis,ain zaghouan,Ain Zaghouan,Sale,1-room apartment,143.0,337000.0,22/11/2023
 404,tunis,marsa,La Marsa,Sale,2-room apartment,74.0,185000.0,31/07/2023
 405,tunis,marsa,La Marsa,Sale,1-room apartment,85.0,350000.0,15/09/2023
-406,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,1158.0,800000.0,28/07/2023
 407,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,120.0,195000.0,07/11/2023
 408,ben arous,mourouj,El Mourouj,Sale,3-room apartment,90.0,200000.0,18/06/2023
 409,manouba,mannouba,Mannouba,Sale,3-room apartment,70.0,131000.0,13/10/2023
@@ -427,7 +414,6 @@
 425,tunis,marsa,La Marsa,Sale,3-room apartment,146.0,320000.0,09/10/2023
 426,ariana,soukra,La Soukra,Sale,4-room apartment,110.0,200000.0,11/08/2023
 427,tunis,menzah,El Menzah,Sale,4-room apartment,185.0,495000.0,02/08/2023
-428,tunis,kram,El Kram,Sale,1-room apartment,150.0,2000.0,18/09/2023
 429,ben arous,rades,Rades,Sale,1-room apartment,122.0,230000.0,03/11/2023
 430,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,70.0,145000.0,20/10/2023
 431,tunis,marsa,La Marsa,Sale,2-room apartment,100.0,400000.0,24/10/2023
@@ -439,10 +425,8 @@
 437,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,131.0,655000.0,22/10/2023
 438,ariana,soukra,La Soukra,Sale,4-room apartment,125.0,195000.0,09/10/2023
 439,ben arous,boumhel el bassatine,Bou Mhel El Bassatine,Sale,3-room apartment,230.0,330000.0,09/09/2023
-440,tunis,marsa,La Marsa,Sale,1-room apartment,163.0,3800.0,21/11/2023
 441,tunis,bab bhar,Bab Bhar,Sale,3-room apartment,120.0,350000.0,20/10/2023
 442,ben arous,rades,Rades,Sale,4-room apartment,164.0,300000.0,23/06/2023
-443,tunis,bardo,Le Bardo,Sale,3-room apartment,110.0,21000.0,20/07/2023
 444,tunis,kram,El Kram,Sale,1-room apartment,120.0,550000.0,16/09/2023
 445,tunis,kram,El Kram,Sale,1-room apartment,200.0,900000.0,01/12/2023
 446,tunis,marsa,La Marsa,Sale,4-room apartment,400.0,1500000.0,15/11/2022
@@ -451,7 +435,6 @@
 449,ben arous,rades,Rades,Sale,4-room apartment,90.0,190000.0,14/09/2023
 450,ariana,ariana ville,Ariana Ville,Sale,5-room apartment and more,117.0,370000.0,25/09/2023
 451,ariana,soukra,La Soukra,Sale,3-room apartment,129.0,440000.0,08/06/2021
-452,tunis,marsa,La Marsa,Sale,4-room apartment,700.0,3000000.0,16/11/2023
 453,tunis,marsa,La Marsa,Sale,3-room apartment,145.0,400000.0,08/11/2023
 454,ben arous,medina jedida,Nouvelle Medina,Sale,3-room apartment,104.0,275600.0,04/11/2023
 455,ariana,raoued,Raoued,Sale,3-room apartment,130.0,285000.0,04/11/2023
@@ -485,7 +468,6 @@
 483,tunis,marsa,La Marsa,Sale,3-room apartment,140.0,280000.0,17/10/2023
 484,tunis,marsa,La Marsa,Sale,3-room apartment,136.0,327000.0,17/10/2023
 485,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,168.0,485000.0,03/10/2023
-486,manouba,mannouba,Mannouba,Sale,5-room apartment and more,600.0,1250000.0,08/11/2023
 487,ariana,soukra,La Soukra,Sale,3-room apartment,200.0,425000.0,25/10/2023
 488,tunis,menzah,El Menzah,Sale,3-room apartment,160.0,520000.0,21/10/2023
 489,ben arous,rades,Rades,Sale,1-room apartment,83.0,200000.0,30/11/2023
@@ -523,7 +505,6 @@
 521,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,144.0,403000.0,31/07/2023
 522,manouba,mannouba,Mannouba,Sale,3-room apartment,105.0,210000.0,26/10/2023
 523,ariana,ariana ville,Ariana Ville,Sale,1-room apartment,51.0,140000.0,03/10/2023
-524,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,133.0,550000.0,16/10/2023
 525,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,320.0,345000.0,14/09/2023
 526,tunis,ouerdia,El Ouerdia,Sale,4-room apartment,111.0,170000.0,15/09/2023
 527,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,120.0,506620.0,12/04/2023
@@ -545,11 +526,9 @@
 543,ben arous,medina jedida,Nouvelle Medina,Sale,2-room apartment,115.0,200000.0,26/09/2023
 544,tunis,kram,El Kram,Sale,4-room apartment,147.0,185000.0,16/10/2023
 545,tunis,marsa,La Marsa,Sale,2-room apartment,56.0,370000.0,08/11/2022
-546,ben arous,ezzahra,Ezzahra,Sale,1-room apartment,1.0,285000.0,03/11/2023
 547,ariana,soukra,La Soukra,Sale,3-room apartment,140.0,370000.0,03/10/2023
 548,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,156.0,702000.0,12/10/2023
 549,ben arous,medina jedida,Nouvelle Medina,Sale,5-room apartment and more,170.0,550000.0,22/12/2022
-550,ben arous,ben arous,Ben Arous,Sale,5-room apartment and more,2550.0,2000000.0,20/11/2023
 551,tunis,marsa,La Marsa,Sale,2-room apartment,105.0,280000.0,04/07/2023
 552,tunis,cite el khadra,Cite El Khadra,Sale,4-room apartment,100.0,227000.0,19/11/2023
 553,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,98.0,300000.0,26/10/2023
@@ -602,7 +581,6 @@
 600,tunis,kabbaria,El Kabbaria,Sale,3-room apartment,100.0,150000.0,05/11/2023
 601,tunis,cite el khadra,Cite El Khadra,Sale,3-room apartment,115.0,210000.0,26/05/2022
 602,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,110.0,190000.0,09/01/2023
-603,tunis,marsa,La Marsa,Sale,1-room apartment,575.0,189750.0,21/11/2023
 604,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,139.0,260000.0,26/10/2023
 605,tunis,marsa,La Marsa,Sale,3-room apartment,289.0,1540000.0,20/06/2023
 606,tunis,marsa,La Marsa,Sale,2-room apartment,60.0,26000.0,21/10/2023
@@ -711,9 +689,7 @@
 709,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,126.0,232000.0,05/12/2023
 710,ben arous,hammam lif,Hammam Lif,Sale,4-room apartment,127.0,230000.0,28/11/2023
 711,tunis,bab souika,Bab Souika,Sale,4-room apartment,112.0,240000.0,05/08/2023
-712,tunis,menzah,El Menzah,Sale,3-room apartment,160.0,42000.0,13/10/2023
 713,ben arous,medina jedida,Nouvelle Medina,Sale,3-room apartment,120.0,210000.0,21/11/2023
-714,ben arous,boumhel el bassatine,Bou Mhel El Bassatine,Sale,3-room apartment,617.0,453000.0,05/12/2023
 715,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,105.0,388000.0,19/11/2023
 716,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,110.0,300000.0,25/10/2023
 717,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,113.0,360000.0,01/12/2023
@@ -745,13 +721,11 @@
 743,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,90.0,230000.0,01/12/2023
 744,ben arous,megrine,Megrine,Sale,3-room apartment,400.0,450000.0,20/10/2023
 745,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,84.0,200000.0,11/10/2023
-746,manouba,mornaguia,Mornaguia,Sale,4-room apartment,15000.0,450000.0,08/11/2023
 747,tunis,marsa,La Marsa,Sale,1-room apartment,47.0,167000.0,03/11/2023
 748,tunis,marsa,La Marsa,Sale,2-room apartment,120.0,370000.0,14/09/2023
 749,ariana,soukra,La Soukra,Sale,3-room apartment,129.0,365000.0,05/12/2023
 750,tunis,marsa,La Marsa,Sale,3-room apartment,150.0,350000.0,08/11/2023
 751,ariana,soukra,La Soukra,Sale,2-room apartment,69.0,210000.0,03/11/2023
-752,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,18.0,120000.0,31/10/2023
 753,tunis,cite el khadra,Cite El Khadra,Sale,3-room apartment,100.0,230000.0,14/11/2023
 754,ben arous,mourouj,El Mourouj,Sale,3-room apartment,85.0,118000.0,07/11/2023
 755,tunis,menzah,El Menzah,Sale,3-room apartment,100.0,220000.0,09/10/2023
@@ -778,7 +752,6 @@
 776,ariana,soukra,La Soukra,Sale,3-room apartment,95.0,128000.0,07/11/2023
 777,ben arous,mourouj,El Mourouj,Sale,4-room apartment,110.0,275000.0,28/09/2023
 778,ben arous,ben arous,Ben Arous,Sale,2-room apartment,126.0,291000.0,08/09/2023
-779,ben arous,boumhel el bassatine,Bou Mhel El Bassatine,Sale,3-room apartment,617.0,453000.0,16/11/2023
 780,ariana,ariana ville,Ariana Ville,Sale,1-room apartment,46.0,170000.0,20/11/2023
 781,tunis,menzah,El Menzah,Sale,3-room apartment,136.0,340000.0,13/09/2023
 782,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,158.0,360000.0,29/08/2023
@@ -822,7 +795,6 @@
 820,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,130.0,235000.0,13/10/2022
 821,tunis,marsa,La Marsa,Sale,1-room apartment,56.0,167000.0,12/09/2023
 822,ben arous,megrine,Megrine,Sale,3-room apartment,400.0,450000.0,11/10/2023
-823,ben arous,mohamadia,Mohamadia,Sale,3-room apartment,204.0,89000.0,01/12/2023
 824,ben arous,mourouj,El Mourouj,Sale,3-room apartment,90.0,120000.0,15/08/2023
 825,tunis,marsa,La Marsa,Sale,2-room apartment,52.0,175000.0,28/09/2023
 826,tunis,medina jedida,La Medina,Sale,4-room apartment,102.0,140000.0,07/11/2023
@@ -889,11 +861,9 @@
 887,tunis,menzah,El Menzah,Sale,5-room apartment and more,500.0,1800000.0,09/11/2023
 888,tunis,medina jedida,La Medina,Sale,3-room apartment,160.0,165000.0,08/11/2023
 889,tunis,marsa,La Marsa,Sale,2-room apartment,117.0,435000.0,09/05/2023
-890,ben arous,mourouj,El Mourouj,Sale,2-room apartment,1.0,120000.0,24/10/2023
 891,ben arous,mourouj,El Mourouj,Sale,3-room apartment,65.0,115000.0,30/10/2023
 892,tunis,menzah,El Menzah,Sale,2-room apartment,95.0,240000.0,22/10/2023
 893,ben arous,mourouj,El Mourouj,Sale,3-room apartment,90.0,160000.0,09/08/2023
-894,tunis,bab bhar,Bab Bhar,Sale,5-room apartment and more,2000.0,300000.0,05/12/2023
 895,tunis,medina jedida,La Medina,Sale,2-room apartment,80.0,85000.0,20/11/2023
 896,ben arous,ben arous,Ben Arous,Sale,2-room apartment,110.0,237000.0,11/10/2023
 897,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,92.0,240000.0,21/09/2023
@@ -904,10 +874,8 @@
 902,tunis,cite el khadra,Cite El Khadra,Sale,5-room apartment and more,202.0,395000.0,06/09/2023
 903,ariana,ariana ville,Ariana Ville,Sale,1-room apartment,140.0,392000.0,03/03/2023
 904,tunis,bab bhar,Bab Bhar,Sale,2-room apartment,100.0,250000.0,30/09/2023
-905,tunis,bab bhar,Bab Bhar,Sale,3-room apartment,1.0,180000.0,02/11/2023
 906,ariana,soukra,La Soukra,Sale,2-room apartment,110.0,460000.0,05/12/2023
 907,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,130.0,230000.0,10/11/2023
-908,tunis,menzah,El Menzah,Sale,5-room apartment and more,240.0,4900000.0,10/11/2023
 909,ben arous,mourouj,El Mourouj,Sale,2-room apartment,116.0,278000.0,17/11/2023
 910,ben arous,ben arous,Ben Arous,Sale,3-room apartment,60.0,85000.0,20/11/2023
 911,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,95.0,235000.0,28/04/2023
@@ -938,7 +906,6 @@
 936,tunis,bab bhar,Bab Bhar,Sale,2-room apartment,40.0,70000.0,29/11/2023
 937,ariana,soukra,La Soukra,Sale,3-room apartment,110.0,255000.0,04/11/2023
 938,tunis,menzah,El Menzah,Sale,4-room apartment,150.0,245000.0,12/09/2023
-939,tunis,marsa,La Marsa,Sale,2-room apartment,549.0,195000.0,07/10/2023
 940,ben arous,mourouj,El Mourouj,Sale,2-room apartment,80.0,112000.0,31/08/2023
 941,tunis,marsa,La Marsa,Sale,3-room apartment,110.0,370000.0,07/11/2023
 942,ariana,ariana ville,Ariana Ville,Sale,5-room apartment and more,168.0,400000.0,27/06/2022
@@ -982,11 +949,9 @@
 980,ben arous,hammam chott,Hammam Chatt,Sale,3-room apartment,112.0,180000.0,02/10/2022
 981,ben arous,mourouj,El Mourouj,Sale,3-room apartment,110.0,220000.0,24/11/2023
 982,ben arous,ezzahra,Ezzahra,Sale,4-room apartment,93.0,200000.0,18/10/2023
-983,tunis,sidi el bechir,Sidi El Bechir,Sale,3-room apartment,1111.0,170000.0,02/11/2023
 984,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,120.0,170000.0,07/09/2023
 985,ariana,soukra,La Soukra,Sale,3-room apartment,130.0,375000.0,20/09/2023
 986,tunis,omrane superieur,El Omrane Superieur,Sale,4-room apartment,120.0,300000.0,01/12/2023
-987,ariana,mnihla,Mnihla,Sale,3-room apartment,703.0,265000.0,03/10/2023
 988,ariana,mnihla,Mnihla,Sale,4-room apartment,125.0,360000.0,10/09/2023
 989,tunis,bab bhar,Bab Bhar,Sale,2-room apartment,40.0,105000.0,15/05/2023
 990,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,132.0,330000.0,07/07/2023
@@ -1001,7 +966,6 @@
 999,tunis,marsa,La Marsa,Sale,2-room apartment,52.0,175000.0,23/10/2023
 1000,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,164.0,360000.0,19/09/2023
 1001,tunis,marsa,La Marsa,Sale,2-room apartment,68.0,180000.0,13/10/2023
-1002,ariana,raoued,Raoued,Sale,5-room apartment and more,510.0,750000.0,13/10/2023
 1003,ariana,ariana ville,Ariana Ville,Sale,5-room apartment and more,180.0,395000.0,16/07/2023
 1004,tunis,marsa,La Marsa,Sale,2-room apartment,118.0,291000.0,04/09/2023
 1005,ben arous,mourouj,El Mourouj,Sale,3-room apartment,80.0,120000.0,11/11/2023
@@ -1045,7 +1009,6 @@
 1043,ben arous,mourouj,El Mourouj,Sale,3-room apartment,65.0,130000.0,18/10/2023
 1044,manouba,oued ellil,Oued Ellil,Sale,4-room apartment,100.0,165108.0,04/12/2023
 1045,ariana,soukra,La Soukra,Sale,3-room apartment,108.0,160000.0,19/09/2023
-1046,ariana,soukra,La Soukra,Sale,1-room apartment,59.0,7000.0,20/05/2023
 1047,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,198.0,580000.0,20/09/2023
 1048,tunis,marsa,La Marsa,Sale,3-room apartment,134.0,280000.0,01/12/2023
 1049,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,150.0,530000.0,02/10/2023
@@ -1067,7 +1030,6 @@
 1065,ariana,soukra,La Soukra,Sale,4-room apartment,65.0,100000.0,15/09/2023
 1066,tunis,marsa,La Marsa,Sale,2-room apartment,150.0,460000.0,22/10/2023
 1067,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,160.0,700000.0,13/07/2022
-1068,tunis,sidi el bechir,Sidi El Bechir,Sale,3-room apartment,1.0,165000.0,25/10/2023
 1069,tunis,marsa,La Marsa,Sale,1-room apartment,57.0,170000.0,26/09/2023
 1070,tunis,medina jedida,La Medina,Sale,3-room apartment,100.0,120000.0,16/11/2023
 1071,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,160.0,832000.0,07/09/2023
@@ -1081,7 +1043,6 @@
 1079,manouba,oued ellil,Oued Ellil,Sale,3-room apartment,82.0,134048.0,02/12/2023
 1080,tunis,omrane superieur,El Omrane Superieur,Sale,4-room apartment,100.0,180000.0,02/11/2023
 1081,tunis,marsa,La Marsa,Sale,2-room apartment,113.0,263000.0,27/10/2023
-1082,ben arous,hammam lif,Hammam Lif,Sale,4-room apartment,105.0,75000.0,23/08/2023
 1083,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,160.0,500000.0,10/10/2023
 1084,ariana,ariana ville,Ariana Ville,Sale,5-room apartment and more,150.0,530000.0,02/10/2023
 1085,ariana,raoued,Raoued,Sale,2-room apartment,90.0,195000.0,27/11/2023
@@ -1129,10 +1090,8 @@
 1127,ariana,soukra,La Soukra,Sale,4-room apartment,114.0,250000.0,20/09/2023
 1128,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,173.0,720000.0,17/11/2023
 1129,tunis,bab bhar,Bab Bhar,Sale,3-room apartment,80.0,118000.0,29/05/2023
-1130,ariana,soukra,La Soukra,Sale,2-room apartment,1.0,210000.0,07/11/2023
 1131,tunis,menzah,El Menzah,Sale,4-room apartment,107.0,240000.0,05/04/2023
 1132,tunis,marsa,La Marsa,Sale,3-room apartment,70.0,165000.0,10/11/2023
-1133,ariana,raoued,Raoued,Sale,5-room apartment and more,6000.0,1500000.0,24/09/2023
 1134,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,150.0,360000.0,28/04/2023
 1135,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,180.0,350000.0,03/06/2023
 1136,tunis,bab bhar,Bab Bhar,Sale,4-room apartment,115.0,190000.0,23/01/2023
@@ -1188,7 +1147,6 @@
 1186,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,129.0,420000.0,07/10/2023
 1187,tunis,bab bhar,Bab Bhar,Sale,2-room apartment,60.0,170000.0,05/12/2023
 1188,tunis,marsa,La Marsa,Sale,3-room apartment,110.0,330000.0,24/05/2023
-1189,tunis,marsa,La Marsa,Sale,1-room apartment,575.0,189750.0,05/12/2023
 1190,tunis,marsa,La Marsa,Sale,1-room apartment,58.0,170000.0,15/06/2023
 1191,ariana,soukra,La Soukra,Sale,4-room apartment,121.0,270000.0,14/07/2023
 1192,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,208.0,559000.0,18/11/2023
@@ -1256,7 +1214,6 @@
 1254,ariana,soukra,La Soukra,Sale,3-room apartment,105.0,255000.0,23/10/2023
 1255,ariana,soukra,La Soukra,Sale,5-room apartment and more,180.0,420000.0,24/10/2023
 1256,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,110.0,210000.0,06/10/2023
-1257,ben arous,medina jedida,Nouvelle Medina,Sale,4-room apartment,120.0,2400000.0,03/03/2023
 1258,ben arous,mourouj,El Mourouj,Sale,4-room apartment,108.0,150000.0,07/11/2023
 1259,ben arous,ezzahra,Ezzahra,Sale,3-room apartment,100.0,210000.0,16/05/2023
 1260,tunis,marsa,La Marsa,Sale,3-room apartment,170.0,550000.0,15/11/2023
@@ -1333,7 +1290,6 @@
 1331,ariana,soukra,La Soukra,Sale,3-room apartment,110.0,220000.0,11/08/2023
 1332,ben arous,hammam lif,Hammam Lif,Sale,5-room apartment and more,200.0,275000.0,21/11/2023
 1333,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,162.0,350000.0,14/10/2023
-1334,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,129.0,4000000.0,27/09/2023
 1335,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,100.0,240000.0,09/05/2023
 1336,tunis,marsa,La Marsa,Sale,3-room apartment,320.0,1800000.0,11/07/2023
 1337,tunis,marsa,La Marsa,Sale,3-room apartment,138.0,270000.0,05/08/2023
@@ -1342,7 +1298,6 @@
 1340,tunis,omrane superieur,El Omrane Superieur,Sale,4-room apartment,110.0,160000.0,26/11/2023
 1341,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,129.0,532000.0,17/04/2023
 1342,ariana,soukra,La Soukra,Sale,4-room apartment,347.0,1350000.0,03/11/2023
-1343,ariana,mnihla,Mnihla,Sale,3-room apartment,703.0,265000.0,11/10/2023
 1344,ben arous,medina jedida,Nouvelle Medina,Sale,2-room apartment,122.0,210000.0,06/12/2023
 1345,tunis,menzah,El Menzah,Sale,4-room apartment,110.0,300000.0,27/07/2023
 1346,ariana,ariana ville,Ariana Ville,Sale,5-room apartment and more,86.0,190000.0,24/06/2023
@@ -1353,7 +1308,6 @@
 1351,tunis,marsa,La Marsa,Sale,2-room apartment,95.0,410000.0,20/10/2023
 1352,ben arous,ben arous,Ben Arous,Sale,4-room apartment,98.0,100000.0,27/07/2023
 1353,tunis,marsa,La Marsa,Sale,2-room apartment,130.0,680000.0,08/09/2023
-1354,tunis,bab bhar,Bab Bhar,Sale,5-room apartment and more,640.0,2000000.0,20/02/2023
 1355,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,145.0,450000.0,16/11/2023
 1356,tunis,carthage,Carthage,Sale,3-room apartment,75.0,190000.0,29/08/2023
 1357,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,146.0,360000.0,26/10/2023
@@ -1399,7 +1353,6 @@
 1397,ben arous,mourouj,El Mourouj,Sale,4-room apartment,110.0,130000.0,21/11/2023
 1398,tunis,kram,El Kram,Sale,5-room apartment and more,400.0,650000.0,25/01/2023
 1399,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,151.0,400000.0,29/09/2023
-1400,tunis,bab bhar,Bab Bhar,Sale,1-room apartment,0.0,75000.0,08/11/2023
 1401,tunis,ouerdia,El Ouerdia,Sale,3-room apartment,150.0,260000.0,04/10/2023
 1402,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,60.0,160000.0,10/04/2023
 1403,tunis,marsa,La Marsa,Sale,3-room apartment,165.0,350000.0,09/06/2023
@@ -1421,7 +1374,6 @@
 1419,ariana,ariana ville,Ariana Ville,Sale,1-room apartment,158.0,350000.0,05/12/2023
 1420,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,135.0,385000.0,24/11/2023
 1421,ben arous,fouchana,Fouchana,Sale,2-room apartment,90.0,135000.0,30/10/2023
-1422,ben arous,mourouj,El Mourouj,Sale,3-room apartment,1.0,120000.0,23/10/2023
 1423,tunis,sidi el bechir,Sidi El Bechir,Sale,4-room apartment,80.0,115000.0,08/07/2023
 1424,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,180.0,360000.0,13/09/2023
 1425,tunis,marsa,La Marsa,Sale,3-room apartment,137.0,600000.0,29/10/2022
@@ -1443,7 +1395,6 @@
 1441,ariana,soukra,La Soukra,Sale,1-room apartment,132.0,470000.0,05/12/2023
 1442,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,100.0,250000.0,10/10/2023
 1443,ben arous,rades,Rades,Sale,4-room apartment,164.0,320000.0,25/03/2023
-1444,ariana,ariana ville,Ariana Ville,Sale,1-room apartment,2.0,165000.0,31/10/2023
 1445,ben arous,medina jedida,Nouvelle Medina,Sale,2-room apartment,70.0,100000.0,30/11/2023
 1446,tunis,marsa,La Marsa,Sale,3-room apartment,108.0,270000.0,20/07/2023
 1447,ariana,soukra,La Soukra,Sale,4-room apartment,135.0,345000.0,31/07/2023
@@ -1475,7 +1426,6 @@
 1473,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,96.0,215000.0,31/07/2023
 1474,tunis,bab bhar,Bab Bhar,Sale,4-room apartment,124.0,220000.0,20/10/2023
 1475,ariana,raoued,Raoued,Sale,4-room apartment,111.0,190000.0,07/09/2023
-1476,tunis,omrane superieur,El Omrane Superieur,Sale,3-room apartment,1.0,190000.0,01/11/2023
 1477,ariana,raoued,Raoued,Sale,4-room apartment,151.0,380000.0,20/07/2023
 1478,tunis,bab bhar,Bab Bhar,Sale,5-room apartment and more,128.0,230000.0,05/10/2023
 1479,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,137.0,499000.0,06/11/2023
@@ -1503,8 +1453,6 @@
 1501,tunis,marsa,La Marsa,Sale,3-room apartment,179.0,450000.0,16/10/2023
 1502,tunis,bardo,Le Bardo,Sale,5-room apartment and more,224.0,680000.0,14/11/2023
 1503,ben arous,rades,Rades,Sale,2-room apartment,80.0,100000.0,30/10/2023
-1504,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,1725.0,850000.0,18/10/2023
-1505,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,1.0,280000.0,01/09/2023
 1506,ben arous,mourouj,El Mourouj,Sale,3-room apartment,500.0,750000.0,24/07/2023
 1507,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,70.0,200000.0,16/10/2023
 1508,tunis,marsa,La Marsa,Sale,2-room apartment,64.0,170000.0,18/07/2023
@@ -1515,8 +1463,6 @@
 1513,ben arous,mourouj,El Mourouj,Sale,3-room apartment,72.0,120000.0,03/02/2023
 1514,ben arous,medina jedida,Nouvelle Medina,Sale,3-room apartment,128.0,250000.0,09/11/2023
 1515,tunis,sidi el bechir,Sidi El Bechir,Sale,5-room apartment and more,125.0,250000.0,07/07/2023
-1516,ariana,soukra,La Soukra,Sale,3-room apartment,75.0,9000.0,30/11/2023
-1517,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,1.0,310000.0,21/09/2023
 1518,tunis,marsa,La Marsa,Sale,3-room apartment,143.0,335000.0,20/10/2023
 1519,manouba,mornaguia,Mornaguia,Sale,4-room apartment,160.0,170000.0,26/01/2023
 1520,ben arous,rades,Rades,Sale,4-room apartment,83.0,140000.0,24/10/2023
@@ -1529,7 +1475,6 @@
 1527,tunis,carthage,Carthage,Sale,3-room apartment,100.0,250000.0,25/07/2023
 1528,tunis,marsa,La Marsa,Sale,3-room apartment,140.0,260000.0,14/04/2023
 1529,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,135.0,475000.0,31/08/2023
-1530,tunis,marsa,La Marsa,Sale,1-room apartment,203.0,3500.0,22/08/2023
 1531,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,129.0,370000.0,24/11/2023
 1532,tunis,cite el khadra,Cite El Khadra,Sale,2-room apartment,225.0,950000.0,22/06/2023
 1533,ben arous,megrine,Megrine,Sale,3-room apartment,210.0,350000.0,08/05/2023
@@ -1554,7 +1499,6 @@
 1552,ben arous,rades,Rades,Sale,3-room apartment,75.0,150000.0,24/10/2023
 1553,ariana,soukra,La Soukra,Sale,3-room apartment,110.0,180000.0,30/09/2023
 1554,ben arous,ezzahra,Ezzahra,Sale,2-room apartment,80.0,210000.0,04/10/2023
-1555,tunis,la goulette,La Goulette,Sale,1-room apartment,15.0,8000.0,30/09/2023
 1556,tunis,sidi el bechir,Sidi El Bechir,Sale,3-room apartment,80.0,180000.0,05/11/2023
 1557,tunis,bardo,Le Bardo,Sale,3-room apartment,120.0,290000.0,09/10/2023
 1558,ariana,soukra,La Soukra,Sale,3-room apartment,114.0,260000.0,16/08/2023
@@ -1581,7 +1525,6 @@
 1579,tunis,marsa,La Marsa,Sale,3-room apartment,140.0,310000.0,25/10/2023
 1580,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,150.0,370000.0,18/11/2023
 1581,ben arous,mourouj,El Mourouj,Sale,3-room apartment,98.0,170000.0,28/02/2023
-1582,ben arous,medina jedida,Nouvelle Medina,Sale,2-room apartment,795.0,165000.0,31/10/2023
 1583,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,111.0,215000.0,18/11/2021
 1584,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,148.0,400000.0,06/10/2023
 1585,tunis,omrane,El Omrane,Sale,4-room apartment,210.0,335000.0,19/08/2023
@@ -1631,16 +1574,12 @@
 1629,ariana,soukra,La Soukra,Sale,2-room apartment,90.0,135000.0,24/10/2023
 1630,tunis,kram,El Kram,Sale,4-room apartment,150.0,360000.0,29/11/2023
 1631,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,110.0,220000.0,27/08/2023
-1632,tunis,menzah,El Menzah,Sale,5-room apartment and more,1.0,320000.0,20/07/2023
 1633,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,157.0,520000.0,13/09/2023
 1634,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,207.0,560000.0,30/11/2023
-1635,tunis,bab bhar,Bab Bhar,Sale,2-room apartment,1.0,150000.0,18/07/2023
 1636,ariana,soukra,La Soukra,Sale,4-room apartment,190.0,650000.0,30/09/2023
 1637,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,100.0,550000.0,16/11/2023
 1638,ben arous,medina jedida,Nouvelle Medina,Sale,3-room apartment,121.0,230000.0,03/11/2023
 1639,ben arous,medina jedida,Nouvelle Medina,Sale,3-room apartment,128.0,230000.0,04/12/2023
-1640,ariana,ariana ville,Ariana Ville,Sale,1-room apartment,270.0,4500.0,05/12/2023
-1641,ben arous,mourouj,El Mourouj,Sale,3-room apartment,1.0,118000.0,12/09/2023
 1642,tunis,kram,El Kram,Sale,3-room apartment,120.0,215000.0,09/03/2023
 1643,tunis,marsa,La Marsa,Sale,3-room apartment,150.0,440000.0,25/11/2023
 1644,ben arous,mourouj,El Mourouj,Sale,3-room apartment,70.0,132000.0,04/12/2023
@@ -1654,7 +1593,6 @@
 1652,tunis,cite el khadra,Cite El Khadra,Sale,4-room apartment,110.0,290000.0,26/09/2023
 1653,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,163.0,365000.0,07/11/2023
 1654,tunis,kram,El Kram,Sale,3-room apartment,123.0,350000.0,10/11/2023
-1655,ben arous,mourouj,El Mourouj,Sale,3-room apartment,1.0,177000.0,27/11/2023
 1656,ben arous,ezzahra,Ezzahra,Sale,1-room apartment,150.0,380000.0,18/10/2023
 1657,ariana,ariana ville,Ariana Ville,Sale,1-room apartment,60.0,139000.0,01/11/2023
 1658,ben arous,medina jedida,Nouvelle Medina,Sale,2-room apartment,91.0,185000.0,04/12/2023
@@ -1668,7 +1606,6 @@
 1666,ben arous,medina jedida,Nouvelle Medina,Sale,2-room apartment,65.0,165000.0,30/11/2023
 1667,tunis,menzah,El Menzah,Sale,3-room apartment,136.0,340000.0,27/09/2023
 1668,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,136.0,494000.0,13/07/2022
-1669,ariana,ariana ville,Ariana Ville,Sale,1-room apartment,120.0,60000.0,11/11/2023
 1670,tunis,bab bhar,Bab Bhar,Sale,3-room apartment,56.0,140000.0,08/05/2023
 1671,ben arous,rades,Rades,Sale,3-room apartment,110.0,195000.0,30/09/2023
 1672,ariana,ariana ville,Ariana Ville,Sale,5-room apartment and more,318.0,850000.0,26/10/2022
@@ -1687,20 +1624,17 @@
 1685,tunis,kram,El Kram,Sale,4-room apartment,280.0,240000.0,16/10/2023
 1686,tunis,bardo,Le Bardo,Sale,4-room apartment,129.0,320000.0,20/07/2023
 1687,tunis,ain zaghouan,Ain Zaghouan,Sale,1-room apartment,250.0,490000.0,17/07/2023
-1688,ariana,soukra,La Soukra,Sale,1-room apartment,945.0,2000000.0,28/04/2023
 1689,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,115.0,350000.0,30/11/2023
 1690,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,130.0,220000.0,18/10/2023
 1691,tunis,marsa,La Marsa,Sale,3-room apartment,100.0,230000.0,20/08/2023
 1692,ariana,raoued,Raoued,Sale,3-room apartment,70.0,165000.0,11/10/2023
 1693,tunis,bab bhar,Bab Bhar,Sale,4-room apartment,120.0,230000.0,30/10/2022
 1694,ben arous,rades,Rades,Sale,3-room apartment,75.0,135000.0,24/10/2023
-1695,ariana,soukra,La Soukra,Sale,2-room apartment,100.0,2450000.0,15/07/2023
 1696,ariana,soukra,La Soukra,Sale,4-room apartment,100.0,170000.0,16/09/2023
 1697,ben arous,rades,Rades,Sale,3-room apartment,70.0,100000.0,15/09/2023
 1698,tunis,bab bhar,Bab Bhar,Sale,5-room apartment and more,160.0,250000.0,04/10/2023
 1699,tunis,menzah,El Menzah,Sale,4-room apartment,100.0,220000.0,22/09/2023
 1700,ariana,mnihla,Mnihla,Sale,3-room apartment,102.0,270000.0,31/07/2023
-1701,ariana,ariana ville,Ariana Ville,Sale,5-room apartment and more,750.0,1500000.0,24/11/2023
 1702,ben arous,mourouj,El Mourouj,Sale,4-room apartment,100.0,145000.0,28/11/2023
 1703,ben arous,boumhel el bassatine,Bou Mhel El Bassatine,Sale,2-room apartment,60.0,125000.0,25/08/2023
 1704,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,80.0,249000.0,14/09/2023
@@ -1755,7 +1689,6 @@
 1753,ariana,soukra,La Soukra,Sale,3-room apartment,100.0,360000.0,02/11/2023
 1754,ariana,soukra,La Soukra,Sale,4-room apartment,185.0,590000.0,02/11/2023
 1755,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,100.0,230000.0,24/11/2023
-1756,tunis,marsa,La Marsa,Sale,4-room apartment,576.0,1800000.0,07/11/2023
 1757,ben arous,ezzahra,Ezzahra,Sale,2-room apartment,95.0,210000.0,19/10/2023
 1758,tunis,marsa,La Marsa,Sale,1-room apartment,60.0,155000.0,13/11/2023
 1759,tunis,marsa,La Marsa,Sale,1-room apartment,105.0,285000.0,18/10/2023
@@ -1811,7 +1744,6 @@
 1809,tunis,marsa,La Marsa,Sale,3-room apartment,140.0,350000.0,04/10/2023
 1810,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,143.0,350000.0,28/09/2023
 1811,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,190.0,750000.0,04/10/2023
-1812,tunis,menzah,El Menzah,Sale,1-room apartment,2.0,165000.0,01/11/2023
 1813,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,154.0,500000.0,07/10/2023
 1814,manouba,mannouba,Mannouba,Sale,3-room apartment,85.0,140000.0,06/11/2023
 1815,ariana,soukra,La Soukra,Sale,1-room apartment,130.0,245000.0,05/12/2023
@@ -1838,7 +1770,6 @@
 1836,tunis,menzah,El Menzah,Sale,3-room apartment,110.0,400000.0,20/09/2023
 1837,ariana,raoued,Raoued,Sale,3-room apartment,75.0,135000.0,30/09/2023
 1838,ariana,raoued,Raoued,Sale,4-room apartment,151.0,370000.0,02/08/2023
-1839,tunis,marsa,La Marsa,Sale,4-room apartment,650.0,3000000.0,24/03/2023
 1840,tunis,marsa,La Marsa,Sale,4-room apartment,130.0,325000.0,01/04/2021
 1841,ariana,soukra,La Soukra,Sale,3-room apartment,150.0,400000.0,02/11/2023
 1842,ben arous,mourouj,El Mourouj,Sale,3-room apartment,70.0,123000.0,14/11/2023
@@ -1856,7 +1787,6 @@
 1854,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,111.0,355000.0,24/10/2023
 1855,ariana,raoued,Raoued,Sale,5-room apartment and more,273.0,350000.0,09/09/2023
 1856,ben arous,rades,Rades,Sale,2-room apartment,70.0,100000.0,20/11/2023
-1857,ben arous,mourouj,El Mourouj,Sale,1-room apartment,75.0,750.0,27/11/2023
 1858,tunis,ain zaghouan,Ain Zaghouan,Sale,1-room apartment,71.0,280000.0,05/12/2023
 1859,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,114.0,305000.0,15/11/2023
 1860,tunis,ouerdia,El Ouerdia,Sale,4-room apartment,191.0,360000.0,25/09/2023
@@ -1885,7 +1815,6 @@
 1883,tunis,marsa,La Marsa,Sale,2-room apartment,88.0,350000.0,14/11/2023
 1884,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,145.0,450000.0,29/11/2023
 1885,tunis,kram,El Kram,Sale,2-room apartment,110.0,550000.0,11/11/2023
-1886,tunis,marsa,La Marsa,Sale,5-room apartment and more,1250.0,2100000.0,14/09/2023
 1887,ben arous,rades,Rades,Sale,3-room apartment,122.0,230000.0,08/11/2023
 1888,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,145.0,425000.0,23/10/2023
 1889,tunis,bab souika,Bab Souika,Sale,1-room apartment,50.0,120000.0,17/10/2022
@@ -1917,7 +1846,6 @@
 1915,ariana,soukra,La Soukra,Sale,3-room apartment,145.0,269000.0,07/12/2023
 1916,tunis,carthage,Carthage,Sale,3-room apartment,90.0,170000.0,07/12/2023
 1917,tunis,cite el khadra,Cite El Khadra,Sale,4-room apartment,96.0,170000.0,01/08/2023
-1918,tunis,marsa,La Marsa,Sale,1-room apartment,795.0,250000.0,07/12/2023
 1919,tunis,marsa,La Marsa,Sale,2-room apartment,110.0,285000.0,07/12/2023
 1920,tunis,marsa,La Marsa,Sale,2-room apartment,73.0,190000.0,06/12/2023
 1921,ben arous,hammam chott,Hammam Chatt,Sale,2-room apartment,119.0,160000.0,09/12/2023
@@ -1925,13 +1853,11 @@
 1923,ariana,mnihla,Mnihla,Sale,4-room apartment,125.0,180000.0,05/12/2023
 1924,manouba,mannouba,Mannouba,Sale,1-room apartment,42.0,88000.0,26/11/2023
 1925,ariana,soukra,La Soukra,Sale,2-room apartment,58.0,120000.0,08/12/2023
-1926,ben arous,boumhel el bassatine,Bou Mhel El Bassatine,Sale,3-room apartment,617.0,430000.0,07/12/2023
 1927,ariana,mnihla,Mnihla,Sale,3-room apartment,167.0,386000.0,08/12/2023
 1928,tunis,marsa,La Marsa,Sale,3-room apartment,194.0,620000.0,27/11/2023
 1929,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,96.0,430000.0,07/12/2023
 1930,tunis,cite el khadra,Cite El Khadra,Sale,4-room apartment,128.0,330000.0,07/12/2023
 1931,tunis,bab bhar,Bab Bhar,Sale,2-room apartment,40.0,160000.0,07/12/2023
-1932,ben arous,megrine,Megrine,Sale,1-room apartment,28.0,2500000.0,07/12/2023
 1933,tunis,marsa,La Marsa,Sale,3-room apartment,130.0,540000.0,08/12/2023
 1934,ariana,raoued,Raoued,Sale,3-room apartment,92.0,187000.0,08/12/2023
 1935,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,151.0,400000.0,22/09/2023
@@ -1955,14 +1881,11 @@
 1953,tunis,menzah,El Menzah,Sale,3-room apartment,114.0,270000.0,07/12/2023
 1954,tunis,marsa,La Marsa,Sale,3-room apartment,124.0,295000.0,27/11/2023
 1955,ben arous,boumhel el bassatine,Bou Mhel El Bassatine,Sale,1-room apartment,51.0,140000.0,07/12/2023
-1956,ariana,raoued,Raoued,Sale,5-room apartment and more,835.0,1200000.0,26/11/2022
 1957,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,133.0,290000.0,03/01/2023
 1958,tunis,marsa,La Marsa,Sale,2-room apartment,61.0,170800.0,08/12/2023
 1959,ben arous,boumhel el bassatine,Bou Mhel El Bassatine,Sale,3-room apartment,112.0,260000.0,07/12/2023
 1960,tunis,bab bhar,Bab Bhar,Sale,3-room apartment,80.0,125000.0,09/12/2023
-1961,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,1875.0,430000.0,08/12/2023
 1962,ariana,soukra,La Soukra,Sale,3-room apartment,110.0,270000.0,08/12/2023
-1963,tunis,marsa,La Marsa,Sale,2-room apartment,2700.0,356000.0,06/12/2023
 1964,ariana,soukra,La Soukra,Sale,4-room apartment,120.0,270000.0,06/12/2023
 1965,tunis,marsa,La Marsa,Sale,4-room apartment,112.0,490000.0,06/07/2023
 1966,ariana,soukra,La Soukra,Sale,1-room apartment,130.0,380000.0,08/12/2023
@@ -1976,7 +1899,6 @@
 1974,tunis,ain zaghouan,Ain Zaghouan,Sale,1-room apartment,64.0,319000.0,06/12/2023
 1975,ariana,soukra,La Soukra,Sale,3-room apartment,116.0,340000.0,07/12/2023
 1976,tunis,marsa,La Marsa,Sale,1-room apartment,55.0,169000.0,06/12/2023
-1977,ben arous,hammam lif,Hammam Lif,Sale,3-room apartment,746.0,690000.0,06/12/2023
 1978,tunis,menzah,El Menzah,Sale,2-room apartment,60.0,150000.0,09/08/2023
 1979,tunis,marsa,La Marsa,Sale,4-room apartment,104.0,315000.0,09/12/2023
 1980,tunis,marsa,La Marsa,Sale,3-room apartment,110.0,290000.0,13/12/2023
@@ -1988,7 +1910,6 @@
 1986,tunis,marsa,La Marsa,Sale,3-room apartment,46.0,170000.0,20/11/2023
 1987,ariana,soukra,La Soukra,Sale,3-room apartment,130.0,230000.0,20/12/2023
 1988,ariana,soukra,La Soukra,Sale,2-room apartment,115.0,380000.0,29/12/2023
-1989,tunis,bab bhar,Bab Bhar,Sale,3-room apartment,1.0,180000.0,11/12/2023
 1990,tunis,marsa,La Marsa,Sale,5-room apartment and more,130.0,658000.0,22/12/2023
 1991,ariana,soukra,La Soukra,Sale,3-room apartment,168.0,638400.0,18/12/2023
 1992,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,211.0,540000.0,01/05/2023
@@ -2009,13 +1930,11 @@
 2007,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,165.0,473000.0,22/12/2023
 2008,ariana,soukra,La Soukra,Sale,4-room apartment,165.0,465000.0,16/08/2023
 2009,ariana,raoued,Raoued,Sale,4-room apartment,250.0,280000.0,02/01/2024
-2010,tunis,marsa,La Marsa,Sale,1-room apartment,575.0,189750.0,15/12/2023
 2011,tunis,menzah,El Menzah,Sale,3-room apartment,97.0,300000.0,11/12/2023
 2012,ben arous,mourouj,El Mourouj,Sale,3-room apartment,60.0,140000.0,13/12/2023
 2013,ben arous,mourouj,El Mourouj,Sale,2-room apartment,60.0,155000.0,28/12/2023
 2014,tunis,marsa,La Marsa,Sale,2-room apartment,127.0,500000.0,29/12/2023
 2015,ariana,mnihla,Mnihla,Sale,2-room apartment,67.0,185000.0,21/12/2023
-2016,manouba,mannouba,Mannouba,Sale,4-room apartment,90.0,14000000.0,16/12/2023
 2017,ben arous,hammam chott,Hammam Chatt,Sale,3-room apartment,102.0,155000.0,17/12/2023
 2018,tunis,marsa,La Marsa,Sale,3-room apartment,150.0,370000.0,03/01/2024
 2019,ariana,raoued,Raoued,Sale,3-room apartment,135.0,110000.0,02/01/2024
@@ -2024,14 +1943,12 @@
 2022,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,105.0,260000.0,27/12/2023
 2023,tunis,marsa,La Marsa,Sale,2-room apartment,88.0,215000.0,02/01/2024
 2024,ariana,soukra,La Soukra,Sale,3-room apartment,164.0,305000.0,12/10/2023
-2025,ariana,mnihla,Mnihla,Sale,1-room apartment,749.0,1125000.0,16/12/2023
 2026,tunis,marsa,La Marsa,Sale,4-room apartment,168.0,320000.0,29/12/2023
 2027,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,105.0,265000.0,28/12/2023
 2028,tunis,marsa,La Marsa,Sale,1-room apartment,73.0,180000.0,12/12/2023
 2029,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,90.0,370000.0,29/12/2023
 2030,tunis,menzah,El Menzah,Sale,4-room apartment,110.0,285000.0,23/12/2023
 2031,tunis,marsa,La Marsa,Sale,1-room apartment,60.0,180000.0,16/12/2023
-2032,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,1875.0,430000.0,23/12/2023
 2033,tunis,marsa,La Marsa,Sale,2-room apartment,87.0,244800.0,18/12/2023
 2034,tunis,ain zaghouan,Ain Zaghouan,Sale,5-room apartment and more,200.0,750000.0,13/12/2023
 2035,tunis,marsa,La Marsa,Sale,1-room apartment,75.0,210000.0,16/12/2023
@@ -2074,7 +1991,6 @@
 2072,tunis,marsa,La Marsa,Sale,1-room apartment,120.0,950000.0,22/12/2023
 2073,tunis,marsa,La Marsa,Sale,3-room apartment,90.0,230000.0,15/12/2023
 2074,ben arous,ezzahra,Ezzahra,Sale,2-room apartment,50.0,130000.0,28/12/2023
-2075,manouba,mannouba,Mannouba,Sale,5-room apartment and more,650.0,650000.0,25/12/2023
 2076,ben arous,mourouj,El Mourouj,Sale,3-room apartment,70.0,145000.0,11/12/2023
 2077,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,110.0,185000.0,19/12/2023
 2078,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,106.0,265000.0,25/12/2023
@@ -2103,12 +2019,10 @@
 2101,ben arous,megrine,Megrine,Sale,2-room apartment,65.0,140000.0,01/01/2024
 2102,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,198.0,720000.0,25/12/2023
 2103,tunis,marsa,La Marsa,Sale,2-room apartment,127.0,357400.0,16/12/2023
-2104,ariana,soukra,La Soukra,Sale,5-room apartment and more,2048.0,2500000.0,25/12/2023
 2105,tunis,marsa,La Marsa,Sale,3-room apartment,137.0,335000.0,03/01/2024
 2106,tunis,marsa,La Marsa,Sale,2-room apartment,113.0,318200.0,18/12/2023
 2107,ben arous,rades,Rades,Sale,4-room apartment,120.0,260000.0,20/12/2023
 2108,manouba,mannouba,Mannouba,Sale,4-room apartment,100.0,180000.0,22/12/2023
-2109,tunis,marsa,La Marsa,Sale,1-room apartment,1.0,430000.0,29/12/2023
 2110,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,123.0,421000.0,21/12/2023
 2111,tunis,omrane,El Omrane,Sale,2-room apartment,51.0,170000.0,25/12/2023
 2112,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,66.0,200000.0,15/12/2023
@@ -2124,7 +2038,6 @@
 2122,tunis,marsa,La Marsa,Sale,1-room apartment,72.0,185000.0,19/12/2023
 2123,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,75.0,140000.0,31/12/2023
 2124,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,100.0,270000.0,15/12/2023
-2125,ariana,raoued,Raoued,Sale,2-room apartment,116500.0,290000.0,17/12/2023
 2126,ben arous,mourouj,El Mourouj,Sale,4-room apartment,115.0,175000.0,25/12/2023
 2127,ben arous,mourouj,El Mourouj,Sale,3-room apartment,105.0,180000.0,16/12/2023
 2128,tunis,marsa,La Marsa,Sale,1-room apartment,66.0,210000.0,02/01/2024
@@ -2164,13 +2077,11 @@
 2162,tunis,marsa,La Marsa,Sale,2-room apartment,94.0,263000.0,29/12/2023
 2163,tunis,menzah,El Menzah,Sale,1-room apartment,40.0,125000.0,02/01/2024
 2164,tunis,marsa,La Marsa,Sale,4-room apartment,120.0,349000.0,11/12/2023
-2165,ben arous,hammam chott,Hammam Chatt,Sale,4-room apartment,180.0,90000.0,06/12/2023
 2166,ariana,soukra,La Soukra,Sale,5-room apartment and more,380.0,1350000.0,29/12/2023
 2167,ariana,raoued,Raoued,Sale,4-room apartment,155.0,180000.0,02/01/2024
 2168,tunis,marsa,La Marsa,Sale,2-room apartment,124.0,349100.0,18/12/2023
 2169,ben arous,ezzahra,Ezzahra,Sale,3-room apartment,77.0,105000.0,26/12/2023
 2170,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,120.0,600000.0,26/12/2023
-2171,tunis,marsa,La Marsa,Sale,5-room apartment and more,550.0,2200000.0,25/12/2023
 2172,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,62.0,350000.0,13/12/2023
 2173,tunis,marsa,La Marsa,Sale,1-room apartment,60.0,185000.0,12/12/2023
 2174,ariana,ettadhamen,Ettadhamen,Sale,3-room apartment,100.0,420000.0,30/12/2023
@@ -2179,7 +2090,6 @@
 2177,tunis,omrane superieur,El Omrane Superieur,Sale,3-room apartment,100.0,120000.0,30/12/2023
 2178,tunis,marsa,La Marsa,Sale,2-room apartment,110.0,285000.0,02/01/2024
 2179,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,143.0,340000.0,21/12/2023
-2180,ariana,soukra,La Soukra,Sale,3-room apartment,1455.0,420000.0,20/12/2023
 2181,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,163.0,825000.0,25/12/2023
 2182,tunis,marsa,La Marsa,Sale,2-room apartment,94.0,263000.0,14/12/2023
 2183,tunis,bab bhar,Bab Bhar,Sale,3-room apartment,66.0,150000.0,19/12/2023
@@ -2251,7 +2161,6 @@
 2249,ben arous,boumhel el bassatine,Bou Mhel El Bassatine,Sale,2-room apartment,107.0,319000.0,15/12/2023
 2250,tunis,marsa,La Marsa,Sale,2-room apartment,75.0,150000.0,11/12/2023
 2251,ben arous,boumhel el bassatine,Bou Mhel El Bassatine,Sale,2-room apartment,110.0,230000.0,12/12/2023
-2252,tunis,ain zaghouan,Ain Zaghouan,Sale,3-room apartment,1.0,550000.0,26/12/2023
 2253,tunis,marsa,La Marsa,Sale,2-room apartment,88.0,215000.0,25/12/2023
 2254,ariana,ariana ville,Ariana Ville,Sale,2-room apartment,80.0,259000.0,18/06/2023
 2255,tunis,ain zaghouan,Ain Zaghouan,Sale,2-room apartment,124.0,477400.0,03/01/2024
@@ -2265,7 +2174,6 @@
 2263,tunis,menzah,El Menzah,Sale,5-room apartment and more,135.0,315000.0,19/10/2023
 2264,tunis,marsa,La Marsa,Sale,2-room apartment,88.0,215000.0,28/12/2023
 2265,tunis,marsa,La Marsa,Sale,3-room apartment,145.0,400000.0,03/01/2024
-2266,tunis,carthage,Carthage,Sale,3-room apartment,150.0,2500000.0,15/12/2023
 2267,ben arous,mourouj,El Mourouj,Sale,3-room apartment,125.0,250000.0,14/12/2023
 2268,tunis,bab bhar,Bab Bhar,Sale,3-room apartment,61.0,65000.0,03/01/2024
 2269,tunis,ain zaghouan,Ain Zaghouan,Sale,4-room apartment,152.0,450000.0,23/12/2023
@@ -2285,11 +2193,9 @@
 2283,ben arous,ezzahra,Ezzahra,Sale,3-room apartment,170.0,320000.0,16/12/2023
 2284,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,120.0,345000.0,30/12/2023
 2285,ariana,ariana ville,Ariana Ville,Sale,1-room apartment,58.0,229000.0,23/12/2023
-2286,tunis,kram,El Kram,Sale,1-room apartment,130.0,1900.0,15/12/2023
 2287,ben arous,ben arous,Ben Arous,Sale,5-room apartment and more,150.0,135000.0,19/12/2023
 2288,tunis,marsa,La Marsa,Sale,2-room apartment,72.0,190000.0,29/12/2023
 2289,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,137.0,400000.0,13/12/2023
-2290,tunis,marsa,La Marsa,Sale,5-room apartment and more,470.0,2200000.0,22/12/2023
 2291,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,162.0,438000.0,26/12/2023
 2292,ariana,ariana ville,Ariana Ville,Sale,1-room apartment,66.0,200000.0,16/12/2023
 2293,ben arous,mourouj,El Mourouj,Sale,1-room apartment,241.0,225000.0,12/12/2023
@@ -2393,7 +2299,6 @@
 2391,ariana,ariana ville,Ariana Ville,Sale,4-room apartment,100.0,253000.0,03/01/2024
 2392,tunis,marsa,La Marsa,Sale,4-room apartment,132.0,310000.0,25/12/2023
 2393,tunis,marsa,La Marsa,Sale,2-room apartment,117.0,335000.0,27/12/2023
-2394,ben arous,fouchana,Fouchana,Sale,1-room apartment,1100.0,950000.0,20/12/2023
 2395,tunis,medina jedida,La Medina,Sale,2-room apartment,39.0,58000.0,22/12/2023
 2396,ariana,ariana ville,Ariana Ville,Sale,3-room apartment,110.0,220000.0,25/12/2023
 2397,ben arous,ezzahra,Ezzahra,Sale,2-room apartment,90.0,225000.0,11/12/2023
@@ -2419,7 +2324,6 @@
 2417,tunis,menzah,El Menzah,Sale,4-room apartment,198.0,470000.0,02/01/2024
 2418,tunis,kram,El Kram,Sale,1-room apartment,80.0,376000.0,13/12/2023
 2419,ben arous,hammam lif,Hammam Lif,Sale,2-room apartment,90.0,140000.0,25/12/2023
-2420,ben arous,ezzahra,Ezzahra,Sale,2-room apartment,250.0,6500000.0,22/12/2023
 2421,ben arous,mourouj,El Mourouj,Sale,2-room apartment,151.0,260000.0,14/12/2023
 2422,ariana,soukra,La Soukra,Sale,4-room apartment,120.0,270000.0,25/12/2023
 2423,tunis,menzah,El Menzah,Sale,5-room apartment and more,482.0,1100000.0,04/09/2023
