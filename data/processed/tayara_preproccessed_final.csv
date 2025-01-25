@@ -1,0 +1,561 @@
+,price,city,region,surface,rooms,bathrooms,etat_age,garden,parking,pool,beach_view,mountain_view,central_heating,air_conditioning,elevator
+0,490000.0,ariana,chotrana 1,141.0,3,2,bon etat,Yes,Yes,No,No,No,No,No,No
+1,380000.0,ariana,chotrana 1,100.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+2,180000.0,manouba,manouba ville,130.0,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+3,240000.0,tunis,gammarth,120.0,2,1,new,No,No,No,No,No,No,No,No
+4,365000.0,ariana,ennasr 2,148.0,3,2,bon etat,No,Yes,No,No,No,No,No,Yes
+5,410000.0,ariana,ghazela,180.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+6,185000.0,ariana,ghazela,70.0,2,1,new,No,No,No,No,No,No,No,No
+7,350000.0,tunis,gammarth,70.0,2,1,new,No,No,No,No,No,No,No,No
+8,250000.0,tunis,gammarth,103.0,1,1,bon etat,No,No,No,No,No,Yes,Yes,No
+9,375000.0,ben arous,boumhel,152.0,3,2,renovated,No,Yes,No,No,No,Yes,No,Yes
+10,215000.0,ariana,jardins menzah 1,77.0,1,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+11,255000.0,ariana,soukra,90.0,3,1,new,No,No,No,No,No,Yes,Yes,Yes
+12,125000.0,ben arous,megrine,117.0,2,1,bon etat,No,No,No,No,No,No,No,No
+13,200000.0,ben arous,megrine,75.0,2,1,bon etat,No,No,No,No,No,No,No,No
+15,650000.0,tunis,lac 1,208.0,4,3,bon etat,No,No,No,No,No,Yes,Yes,No
+16,270000.0,ben arous,medina jedida,122.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+17,120000.0,ariana,ariana,54.0,2,1,new,No,Yes,No,No,No,No,No,Yes
+18,325000.0,ariana,ghazela,167.0,3,1,renovate,No,Yes,No,No,No,Yes,Yes,No
+19,700000.0,tunis,jardins de carthage,199.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+20,241566.0,ben arous,boumhel,63.25,1,1,bon etat,Yes,Yes,No,No,No,Yes,No,No
+21,316000.0,ariana,ghazela,104.0,1,1,new,Yes,Yes,No,No,No,Yes,Yes,No
+22,275000.0,ariana,chotrana 1,125.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+23,143000.0,tunis,agba,95.0,4,1,bon etat,No,No,No,No,No,No,No,No
+24,256457.0,ariana,chotrana 2,61.0,2,1,new,No,Yes,No,No,No,Yes,Yes,No
+25,304607.0,ariana,chotrana 2,74.0,1,1,bon etat,No,Yes,No,No,No,Yes,No,No
+26,220000.0,tunis,aouina,86.0,2,1,bon etat,No,No,No,No,No,No,No,No
+27,345000.0,ariana,ennasr 2,160.0,4,2,bon etat,No,No,No,No,No,Yes,No,No
+28,380000.0,ariana,chotrana 1,100.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+29,450000.0,tunis,marsa,160.0,3,2,bon etat,No,No,No,No,No,Yes,No,No
+30,148000.0,ariana,ghazela,98.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+31,330000.0,ben arous,megrine,100.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+32,310000.0,ariana,menzah 6,100.0,2,2,bon etat,No,No,No,No,No,Yes,No,Yes
+33,350000.0,ariana,soukra,140.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+34,550000.0,tunis,la goulette,144.0,3,2,bon etat,No,No,No,No,No,No,Yes,Yes
+35,700000.0,ariana,chotrana 1,147.8,3,2,bon etat,Yes,No,No,No,No,No,No,No
+36,195000.0,tunis,aouina,61.0,1,1,bon etat,No,No,No,No,No,Yes,Yes,No
+37,154999.0,ben arous,rades,105.0,3,1,bon etat,Yes,Yes,No,No,No,No,No,No
+38,180000.0,tunis,monfleury,97.0,4,1,renovated,No,No,No,No,No,Yes,No,No
+39,330000.0,ariana,chotrana 1,89.5,1,1,bon etat,Yes,Yes,No,No,No,Yes,Yes,No
+41,135000.0,ben arous,hammam lif,70.0,2,1,bon etat,No,No,No,No,No,No,No,Yes
+42,275000.0,tunis,aouina,94.0,2,1,bon etat,No,No,No,No,No,Yes,No,Yes
+43,320000.0,tunis,aouina,140.0,3,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+44,169000.0,tunis,aouina,45.0,1,1,new,No,No,No,No,No,Yes,No,Yes
+45,480000.0,tunis,jardins de carthage,105.0,2,2,bon etat,No,No,No,No,No,Yes,Yes,Yes
+46,345000.0,tunis,ain zaghouan,118.0,2,1,bon etat,No,No,No,No,No,Yes,No,Yes
+47,365000.0,tunis,aouina,150.0,3,2,renovated,No,Yes,No,No,No,No,No,Yes
+48,169000.0,tunis,aouina,48.0,1,1,new,No,No,No,No,No,Yes,No,Yes
+49,175000.0,tunis,ain zaghouan,60.0,1,1,new,No,No,No,No,No,Yes,Yes,Yes
+50,285000.0,tunis,lafayette,154.0,4,2,bon état,No,No,No,No,No,Yes,No,Yes
+51,280000.0,tunis,ain zaghouan,110.0,2,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+52,580000.0,tunis,gammarth,340.0,3,2,bon etat,No,No,No,Yes,Yes,Yes,Yes,No
+53,170000.0,tunis,aouina,40.0,2,1,bon etat,No,No,No,No,No,Yes,No,Yes
+54,550000.0,tunis,jardins de carthage,152.0,5,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+55,320000.0,tunis,ain zaghouan,105.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+56,180000.0,tunis,aouina,60.0,2,1,bon etat,No,No,No,No,No,Yes,No,Yes
+57,229000.0,tunis,aouina,81.0,2,1,new,No,No,No,No,No,Yes,No,Yes
+58,195000.0,tunis,aouina,58.0,2,1,new,No,No,No,No,No,Yes,No,No
+59,165000.0,tunis,aouina,42.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+60,750000.0,ben arous,mornag,420.0,7,3,bon etat,No,Yes,No,No,No,Yes,No,No
+61,215000.0,ben arous,medina jedida,90.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+62,240000.0,tunis,aouina,112.0,2,1,bon etat,No,No,No,No,No,No,No,No
+63,340000.0,tunis,aouina,156.0,3,1,new,No,No,No,No,No,No,No,Yes
+64,320000.0,ben arous,medina jedida,161.0,3,2,bon etat,No,Yes,No,No,No,No,Yes,No
+65,295000.0,tunis,aouina,143.0,3,1,bon etat,No,No,No,No,No,No,No,No
+66,320000.0,tunis,aouina,129.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+67,188000.0,tunis,aouina,60.0,1,1,new,No,Yes,No,No,No,Yes,Yes,No
+68,365000.0,tunis,aouina,143.0,3,1,bon etat,No,Yes,No,No,No,No,No,No
+69,180000.0,tunis,aouina,70.0,1,1,new,No,No,No,No,No,Yes,Yes,No
+70,370000.0,tunis,lac 2,68.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+71,189000.0,tunis,aouina,68.0,1,1,new,No,No,No,No,No,Yes,No,No
+72,250000.0,tunis,lafayette,100.0,4,1,bon état,No,Yes,No,No,No,No,No,Yes
+73,195000.0,tunis,aouina,65.0,3,1,new,No,No,No,No,No,Yes,No,Yes
+74,350000.0,tunis,aouina,135.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+75,268000.0,ariana,borj louzir,78.0,2,2,new,No,Yes,No,No,No,Yes,Yes,Yes
+76,415000.0,tunis,aouina,175.0,3,2,new,No,Yes,No,No,No,Yes,Yes,Yes
+77,255000.0,tunis,aouina,113.0,2,1,new,No,Yes,No,No,No,Yes,Yes,Yes
+78,450000.0,tunis,aouina,195.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+79,170000.0,tunis,aouina,45.0,1,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+80,265000.0,tunis,aouina,84.0,2,1,bon etat,No,No,No,No,No,Yes,No,Yes
+81,270000.0,tunis,aouina,132.0,3,2,bon etat,No,No,No,No,No,Yes,Yes,No
+82,190000.0,tunis,aouina,62.0,1,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+83,215000.0,tunis,aouina,77.0,2,1,bon etat,No,No,No,No,No,Yes,No,Yes
+84,306000.0,tunis,aouina,158.0,3,2,bon etat,No,Yes,No,No,No,Yes,No,No
+85,420000.0,tunis,aouina,124.0,3,3,bon etat,No,Yes,No,No,No,Yes,Yes,No
+86,95000.0,tunis,tunis,51.0,2,1,partially renovated,No,No,No,No,No,Yes,No,No
+87,220000.0,ariana,riadh andalous,130.0,3,2,bon etat,No,No,No,No,No,Yes,Yes,No
+88,410000.0,tunis,ain zaghouan nord,110.0,2,2,new,No,Yes,No,No,No,Yes,Yes,No
+89,405000.0,ariana,soukra,127.0,2,1,new,Yes,Yes,No,No,No,Yes,Yes,No
+90,260000.0,ben arous,medina jedida,122.0,3,2,new,No,Yes,No,No,No,Yes,Yes,No
+91,620000.0,tunis,aouina,145.0,3,2,new,Yes,Yes,No,No,No,Yes,Yes,No
+92,265000.0,tunis,aouina,95.0,2,1,bon etat,No,No,No,No,No,No,No,No
+93,295000.0,tunis,aouina,143.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+94,230000.0,tunis,aouina,109.0,2,2,bon etat,No,No,No,No,No,No,No,No
+95,310000.0,tunis,aouina,129.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+96,180000.0,tunis,aouina,60.0,2,1,bon etat,No,No,No,No,No,Yes,No,Yes
+97,370000.0,tunis,carthage,130.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+98,180000.0,tunis,aouina,50.0,1,1,new,No,No,No,No,No,Yes,No,No
+99,180000.0,tunis,aouina,74.0,1,1,new,No,No,No,No,No,Yes,Yes,Yes
+100,175000.0,tunis,aouina,56.0,2,1,good condition,No,Yes,No,No,No,Yes,No,Yes
+101,240000.0,ben arous,medina jedida,136.0,2,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+102,215000.0,ben arous,ben arous,136.0,3,2,bon etat,No,No,No,No,No,Yes,No,No
+103,225000.0,ariana,menzah 7,106.0,3,2,bon état,No,No,No,No,No,Yes,No,No
+104,275000.0,ariana,soukra,89.0,2,1,very good condition,No,Yes,No,No,No,Yes,Yes,No
+105,183000.0,tunis,agba,94.0,2,1,bon état,No,No,No,No,No,No,No,No
+106,320000.0,ariana,menzah 6,150.0,3,2,bon état,No,No,No,No,No,No,No,Yes
+107,180000.0,ariana,ariana ville,90.0,3,1,bon etat,No,No,No,No,No,Yes,Yes,No
+108,140000.0,tunis,bardo,50.0,1,1,bon etat,No,No,No,No,No,Yes,No,No
+109,329000.0,tunis,aouina,137.0,3,2,bon état,No,Yes,No,No,No,Yes,No,No
+110,1150000.0,tunis,gammarth,200.0,4,3,bon etat,No,Yes,No,No,Yes,Yes,Yes,No
+111,308000.0,tunis,aouina,102.0,2,1,new,No,Yes,No,No,No,Yes,No,No
+113,750000.0,ariana,soukra,316.0,3,2,new,Yes,Yes,Yes,No,No,No,No,No
+114,270000.0,ben arous,medina jedida,121.0,3,2,new,No,Yes,No,No,No,No,Yes,Yes
+115,660000.0,tunis,aouina,250.0,6,2,bon etat,No,No,No,No,No,No,No,No
+116,219000.0,ariana,ennasr 2,73.0,1,1,bon etat,No,Yes,No,No,No,No,Yes,Yes
+117,410000.0,ariana,ennasr,171.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+118,280000.0,ariana,ennasr 2,91.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+119,330000.0,tunis,ain zaghouan nord,63.0,1,1,new,No,No,Yes,No,No,No,No,No
+120,1500000.0,tunis,lac 1,260.0,4,2,new,No,Yes,No,Yes,No,No,No,No
+122,450000.0,ariana,ennasr 2,160.0,3,2,bon etat,No,Yes,No,No,Yes,Yes,Yes,No
+123,315000.0,ariana,ennasr 2,89.0,1,1,bon etat,No,No,No,No,No,Yes,Yes,No
+124,265000.0,ariana,ennasr 2,113.0,3,3,bon état,No,Yes,No,No,No,Yes,No,No
+125,365000.0,ariana,jardins el menzah,150.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+126,170000.0,tunis,ain zaghouan,49.0,2,1,bon etat,No,No,No,No,No,Yes,No,Yes
+127,340000.0,tunis,aouina,155.0,4,2,bon etat,No,No,No,No,No,No,No,No
+128,63000.0,tunis,aouina,60.0,1,1,new,No,No,No,No,No,No,No,No
+129,329000.0,tunis,aouina,137.0,4,2,bon etat,No,No,No,No,No,No,No,No
+130,308000.0,tunis,aouina,100.0,2,1,new,No,Yes,No,No,No,Yes,No,Yes
+131,255000.0,ben arous,boumhel,116.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+132,600000.0,ben arous,boumhel,450.0,7,4,bon etat,No,No,No,No,No,No,No,No
+133,260000.0,ariana,menzah 7,85.0,2,1,renovated,No,Yes,No,No,No,Yes,Yes,No
+134,340000.0,ariana,ennasr 2,100.0,2,1,bon etat,No,No,No,No,No,No,Yes,Yes
+135,485000.0,ariana,menzah 7,178.0,3,2,bon état,No,No,No,No,No,Yes,No,Yes
+136,268000.0,tunis,aouina,64.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+137,380000.0,tunis,aouina,95.0,2,1,new,No,No,No,No,No,Yes,Yes,Yes
+138,854000.0,tunis,aouina,160.0,3,3,new,Yes,Yes,No,No,No,Yes,Yes,Yes
+139,365000.0,tunis,lac 2,67.0,1,1,bon etat,No,No,No,No,No,No,No,No
+140,550000.0,tunis,lac 2,130.0,2,2,bon etat,No,No,No,No,No,No,No,No
+141,550000.0,tunis,lac 2,131.0,2,1,bon etat,No,No,No,No,No,No,No,No
+142,540000.0,tunis,tunis,135.0,3,3,new,No,Yes,No,No,No,Yes,Yes,Yes
+143,548000.0,tunis,aouina,101.0,2,3,new,No,Yes,No,No,No,Yes,Yes,Yes
+144,634000.0,tunis,aouina,167.0,3,2,new,No,Yes,No,No,No,Yes,Yes,Yes
+145,439000.0,ariana,soukra,130.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+146,530000.0,ariana,soukra,160.0,4,2,bon etat,No,No,No,No,No,No,No,No
+147,456000.0,tunis,aouina,101.0,2,1,bon etat,Yes,Yes,No,No,No,Yes,Yes,Yes
+148,250000.0,ariana,soukra,114.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+149,839800.0,tunis,aouina,173.0,4,3,new,No,Yes,No,No,No,Yes,Yes,Yes
+150,220000.0,tunis,manar 1,80.0,2,2,bon etat,No,No,No,No,No,Yes,No,Yes
+151,140000.0,tunis,tunis,134.4,3,2,bon état,No,No,No,No,No,No,No,No
+152,338000.0,ariana,ennasr 2,150.0,4,2,bon etat,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+153,1600000.0,ariana,soukra,842.0,6,3,bon etat,Yes,Yes,Yes,No,No,No,No,No
+154,250000.0,ariana,soukra,100.0,3,1,bon etat,No,Yes,No,No,No,No,No,No
+155,170000.0,tunis,bardo,74.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+156,165000.0,tunis,aouina,50.0,2,1,new,No,No,No,No,No,No,No,No
+157,230000.0,tunis,aouina,68.0,1,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+158,335000.0,tunis,aouina,140.0,3,1,new,No,Yes,No,No,No,Yes,Yes,Yes
+159,295000.0,tunis,aouina,143.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+160,550000.0,tunis,jardins de carthage,109.0,3,2,new,No,Yes,Yes,No,No,Yes,Yes,No
+161,570000.0,tunis,jardins de carthage,112.0,2,1,bon etat,No,No,No,No,No,No,No,No
+162,700000.0,tunis,jardins de carthage,140.0,4,3,recently built,No,Yes,Yes,No,No,Yes,Yes,Yes
+163,95000.0,tunis,tunis,51.0,2,1,bon état,No,No,No,No,No,No,No,No
+164,550000.0,tunis,tunis,120.0,4,2,bon etat,Yes,Yes,No,No,No,Yes,Yes,No
+165,150000.0,tunis,agba,70.0,2,1,bon etat,No,No,No,No,No,No,No,No
+166,300000.0,ariana,soukra,107.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+167,195000.0,tunis,aouina,67.0,1,1,bon état,No,No,No,No,No,Yes,No,Yes
+168,670000.0,tunis,jardins de carthage,142.0,2,2,new,No,No,No,No,No,Yes,Yes,Yes
+169,340000.0,tunis,aouina,172.0,4,2,bon etat,No,No,No,No,No,No,No,No
+170,280000.0,tunis,aouina,110.0,2,1,New,No,No,No,No,No,Yes,No,Yes
+171,319999.0,tunis,aouina,137.0,3,1,bon etat,No,No,No,No,No,Yes,Yes,No
+172,420000.0,tunis,ain zaghouan,127.0,3,1,new,No,Yes,No,No,No,No,No,No
+173,170000.0,ben arous,ben arous,107.0,2,1,bon etat,No,Yes,No,No,No,No,No,Yes
+174,265000.0,tunis,aouina,95.0,2,1,bon etat,No,No,No,No,No,No,No,No
+175,315000.0,tunis,aouina,115.0,2,2,bon etat,No,Yes,No,No,No,Yes,No,No
+176,170000.0,tunis,aouina,47.0,2,1,well-kept,No,No,No,No,No,Yes,Yes,Yes
+177,215000.0,tunis,aouina,90.0,2,1,new,Yes,No,No,No,No,No,No,No
+178,420000.0,tunis,tunis,120.0,4,2,bon état,No,No,No,No,No,Yes,Yes,Yes
+179,320000.0,ariana,soukra,145.0,3,2,New,No,Yes,Yes,No,No,Yes,No,Yes
+180,295000.0,tunis,ain zaghouan,143.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+181,230000.0,tunis,aouina,109.0,2,2,bon etat,No,No,No,No,No,Yes,Yes,No
+182,294999.0,tunis,aouina,143.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+183,312000.0,ben arous,borj cedria,145.0,4,2,bon etat,No,No,No,No,No,Yes,No,Yes
+184,795000.0,tunis,lac 2,203.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+185,295000.0,tunis,ain zaghouan,115.0,2,1,bon etat,No,Yes,No,No,No,Yes,No,No
+186,285000.0,ariana,ennasr 2,83.0,2,1,bon etat,No,Yes,No,No,No,Yes,No,No
+187,360000.0,tunis,aouina,110.0,3,2,new,No,Yes,No,No,No,Yes,Yes,No
+188,1450000.0,tunis,lac 2,289.0,4,3,new,No,Yes,No,No,No,Yes,Yes,No
+189,540000.0,ariana,ennasr,202.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+190,610000.0,ariana,ennasr,220.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+191,295000.0,ariana,menzah 6,145.0,4,2,bon etat,No,Yes,No,No,No,Yes,No,No
+192,395000.0,ariana,riadh andalous,125.0,3,2,new,No,Yes,No,No,No,Yes,Yes,No
+193,360000.0,tunis,aouina,119.0,3,2,bon etat,Yes,No,No,No,No,No,No,No
+194,196000.0,tunis,ain zaghouan nord,60.0,2,1,new,No,No,No,No,No,Yes,Yes,Yes
+195,175000.0,tunis,tunis,120.0,3,1,bon état,No,No,No,No,No,Yes,Yes,No
+196,545000.0,tunis,lac 2,125.0,2,1,well maintained,No,No,No,No,No,Yes,Yes,Yes
+197,420000.0,ariana,soukra,140.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+198,180000.0,tunis,bardo,97.4,2,1,bon etat,No,No,No,No,No,No,No,No
+199,350000.0,tunis,ain zaghouan,160.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+200,230000.0,tunis,aouina,78.0,2,1,bon etat,No,No,No,No,No,Yes,No,Yes
+201,185000.0,tunis,cite olympique,80.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+202,210000.0,tunis,ain zaghouan nord,73.0,3,1,bon état,No,No,No,No,No,Yes,No,No
+203,335000.0,tunis,ain zaghouan nord,70.0,2,2,bon etat,No,Yes,No,No,No,No,No,Yes
+204,140000.0,ben arous,ezzahra,100.0,3,1,bon etat,No,No,No,No,No,No,No,No
+205,180000.0,tunis,ain zaghouan,74.0,2,1,bon etat,No,No,No,No,No,No,No,No
+206,125000.0,ariana,ariana essoughra,80.0,3,1,bon etat,No,No,No,No,No,No,No,No
+208,169000.0,ben arous,hammam chott,65.0,2,1,bon etat,No,No,No,No,No,No,No,No
+209,350000.0,tunis,ain zaghouan sud,130.0,3,2,well-maintained,No,Yes,No,No,No,No,No,No
+210,350000.0,tunis,aouina,155.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+211,160000.0,manouba,manouba,71.0,1,1,bon etat,No,No,No,No,No,Yes,Yes,No
+212,145000.0,tunis,tunis,70.0,3,1,well-maintained,No,No,No,No,No,No,No,No
+213,430000.0,tunis,jardins de carthage,114.0,2,2,bon etat,No,Yes,No,No,No,No,No,No
+214,1550000.0,tunis,menzah 9,750.0,10,3,to be renovated,Yes,No,No,No,No,No,No,No
+215,525000.0,ariana,chotrana 1,149.0,3,3,bon etat,No,Yes,No,No,No,Yes,Yes,No
+216,410000.0,ariana,soukra,157.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+217,218000.0,ariana,soukra,51.0,1,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+218,259000.0,ben arous,boumhel,106.0,2,1,bon etat,No,Yes,No,No,No,Yes,No,Yes
+219,415000.0,ariana,riadh andalous,108.0,3,2,renovated,No,Yes,No,No,No,Yes,Yes,No
+220,230000.0,ariana,ghazela,83.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+221,185000.0,ariana,ghazela,80.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+222,228000.0,ariana,ariana ville,135.0,3,2,bon etat,No,No,No,No,No,Yes,Yes,No
+223,175000.0,ariana,ghazela,81.0,3,2,bon etat,No,No,No,No,No,No,No,No
+224,350000.0,ariana,ghazela,149.75,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+225,255000.0,ariana,ariana ville,75.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+226,228000.0,ariana,ariana ville,135.0,3,2,renovated,No,Yes,No,No,No,Yes,Yes,No
+227,114000.0,ariana,ariana essoughra,70.0,2,2,bon etat,No,No,No,No,No,No,No,Yes
+228,280000.0,ben arous,ezzahra,132.0,3,2,new,No,No,No,No,No,Yes,No,Yes
+229,1500000.0,tunis,bardo,200.0,3,1,renovated,No,Yes,No,No,No,Yes,No,No
+230,220000.0,tunis,cite olympique,100.0,3,1,renovated,No,No,No,No,No,No,No,No
+231,290000.0,tunis,ain zaghouan,127.0,2,2,new,No,No,No,No,No,Yes,Yes,Yes
+232,750000.0,tunis,ain zaghouan nord,172.0,3,2,new,No,Yes,No,No,No,Yes,Yes,No
+233,285000.0,tunis,aouina,95.0,3,1,new,No,No,No,No,No,Yes,Yes,No
+234,130000.0,tunis,bardo,65.0,2,1,bon état,No,No,No,No,No,No,No,No
+235,210000.0,tunis,ain zaghouan,73.0,2,1,bon etat,No,Yes,No,No,No,Yes,No,No
+236,350000.0,tunis,lac 2,68.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+237,180000.0,tunis,aouina,60.0,1,1,new,No,No,No,No,No,Yes,Yes,Yes
+238,360000.0,ben arous,ezzahra,150.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+239,790000.0,tunis,lac 2,185.0,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+240,1069999.0,ariana,soukra,800.0,2,1,bon etat,Yes,No,No,No,No,No,No,No
+241,1069999.0,ariana,chotrana 3,800.0,0,2,bon etat,Yes,No,No,No,No,No,No,No
+242,320000.0,tunis,aouina,137.0,3,2,bon etat,No,No,No,No,No,No,No,No
+243,194000.0,ben arous,mourouj 6,78.0,2,1,bon etat,No,Yes,No,No,No,Yes,No,No
+244,315000.0,tunis,aouina,115.0,2,2,bon etat,No,Yes,No,No,No,No,No,No
+245,295000.0,tunis,ain zaghouan,143.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+246,320000.0,tunis,aouina,85.0,2,1,new,No,No,No,No,No,Yes,No,No
+247,265000.0,tunis,aouina,95.0,2,1,bon etat,No,No,No,No,No,No,No,No
+248,260000.0,ariana,jardins el menzah,102.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+249,294999.0,tunis,aouina,143.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+250,150000.0,tunis,menzah,40.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+251,530000.0,tunis,lac 2,111.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+252,275000.0,ariana,jardins el menzah,102.0,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+253,250000.0,ariana,ennasr 2,75.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+254,230000.0,tunis,ain zaghouan,109.0,2,1,bon etat,No,No,No,No,No,No,No,No
+255,780000.0,tunis,ain zaghouan sud,462.0,4,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+256,215000.0,tunis,aouina,90.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+257,195000.0,ariana,ennasr 2,80.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+258,360000.0,ariana,riadh andalous,158.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+259,110000.0,ariana,raoued,70.0,2,1,bon etat,No,No,No,No,No,No,No,No
+260,420000.0,ariana,menzah 7,200.0,4,2,bon etat,Yes,Yes,No,No,No,Yes,Yes,No
+261,165000.0,manouba,manouba,110.0,3,1,bon etat,No,No,No,No,No,No,No,No
+262,350000.0,tunis,ain zaghouan nord,60.0,1,1,new,No,No,Yes,No,No,Yes,Yes,Yes
+263,270000.0,ariana,jardins menzah 2,120.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+264,275000.0,ariana,jardins menzah 1,110.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+265,220000.0,tunis,aouina,80.0,2,1,new,No,No,No,No,No,Yes,Yes,Yes
+266,240000.0,tunis,lafayette,95.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+267,270000.0,ariana,menzah 7,106.0,3,2,bon état,No,Yes,No,No,No,No,No,Yes
+268,240000.0,ben arous,ezzahra,90.0,2,1,bon état,No,Yes,No,No,No,Yes,No,Yes
+269,309993.0,tunis,manar 1,120.0,3,1,bon état,No,Yes,No,No,No,Yes,No,Yes
+270,680000.0,tunis,ain zaghouan sud,132.0,2,1,new,No,No,No,No,No,Yes,Yes,Yes
+271,500000.0,tunis,gammarth,190.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+272,195000.0,tunis,aouina,58.6,2,1,new,No,No,No,No,No,Yes,No,No
+273,229000.0,tunis,aouina,81.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+274,410000.0,ariana,ennasr 2,121.0,2,1,well -maintained,No,Yes,No,No,No,Yes,No,Yes
+275,485000.0,tunis,menzah 9,173.0,3,3,bon etat,No,Yes,No,No,No,Yes,Yes,No
+276,320000.0,tunis,cite olympique,125.0,4,1,bon etat,No,Yes,No,No,No,No,No,No
+277,210000.0,tunis,cite olympique,90.0,3,1,bon etat,No,Yes,No,No,No,No,No,No
+278,180000.0,ariana,ennasr 2,65.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+279,270000.0,tunis,manar 2,95.0,2,1,bon etat,No,Yes,No,No,No,Yes,No,Yes
+280,240000.0,ariana,menzah 5,114.0,3,2,bon etat,No,No,No,No,No,Yes,No,No
+281,220000.0,ariana,menzah 7,80.0,2,1,bon etat,No,No,No,No,No,No,No,No
+282,120000.0,ariana,borj louzir,78.0,3,1,bon etat,No,No,No,No,No,No,No,No
+283,195000.0,ariana,riadh andalous,69.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+284,345000.0,ariana,ennasr 2,147.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+285,610000.0,ariana,ennasr 2,205.0,5,3,bon etat,No,Yes,No,No,No,Yes,Yes,No
+286,300000.0,tunis,tunis,160.0,3,2,bon état,No,No,No,No,No,Yes,Yes,No
+287,310000.0,ariana,ennasr 2,120.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+288,275000.0,ariana,ennasr 2,120.0,2,1,bon etat,Yes,No,No,No,No,Yes,Yes,No
+289,1570000.0,manouba,denden,90.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+290,165000.0,ben arous,ben arous,115.0,3,2,bon état,No,No,No,No,No,No,No,No
+292,295000.0,ben arous,ezzahra,134.0,3,1,bon état,No,Yes,No,No,No,Yes,Yes,No
+293,108000.0,ben arous,ezzahra,50.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+294,178000.0,ben arous,ezzahra,100.0,3,1,bon etat,No,Yes,No,No,No,Yes,No,No
+295,169000.0,ben arous,hammam chott,80.0,3,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+296,320000.0,ben arous,rades,147.0,3,2,bon etat,No,Yes,No,No,No,Yes,No,No
+297,348000.0,ariana,riadh andalous,124.0,2,1,under construction,No,Yes,No,No,No,No,No,No
+298,240000.0,ariana,ghazela,107.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+299,195000.0,tunis,manar 2,110.0,2,1,bon etat,No,No,No,No,No,No,No,Yes
+300,255000.0,tunis,manar 2,132.0,3,1,bon état,No,Yes,No,No,No,Yes,Yes,No
+301,165000.0,ben arous,mourouj 1,96.0,2,1,bon état,No,No,No,No,No,No,No,No
+302,190000.0,tunis,la goulette,75.0,3,1,bon etat,No,No,No,No,No,Yes,No,No
+303,168999.0,tunis,aouina,48.0,1,1,new,No,No,No,No,No,No,No,No
+304,485000.0,ariana,menzah 7,178.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+305,180000.0,ariana,menzah 7,106.0,3,2,bon état,No,No,No,No,No,No,No,No
+306,285000.0,tunis,la goulette,120.0,3,1,bon état,No,No,No,No,No,Yes,No,No
+307,280000.0,ariana,menzah 7,110.0,2,1,renovated,No,No,No,No,No,Yes,Yes,No
+308,270000.0,tunis,aouina,100.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+309,470000.0,ariana,menzah 7,207.0,4,2,bon etat,No,Yes,No,No,No,No,No,Yes
+310,780000.0,tunis,lac 2,190.0,4,2,bon etat,No,Yes,No,No,No,No,No,No
+311,350000.0,ariana,ennasr 2,150.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+312,400000.0,tunis,ain zaghouan nord,118.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+313,372000.0,ariana,chotrana 1,120.0,2,2,new,Yes,Yes,No,No,No,Yes,Yes,No
+314,245000.0,tunis,manar 1,90.0,3,2,bon etat,No,Yes,No,No,No,Yes,No,Yes
+315,139000.0,ben arous,mourouj 1,90.0,3,1,new,No,No,No,No,No,Yes,No,Yes
+316,180000.0,tunis,aouina,73.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+317,2800000.0,tunis,manar 2,110.0,3,1,bon état,No,No,No,No,No,Yes,No,No
+318,300000.0,ben arous,ezzahra,140.0,3,2,bon etat,No,Yes,No,No,No,Yes,No,No
+319,360000.0,ben arous,ezzahra,128.0,3,2,bon etat,No,Yes,No,No,No,Yes,No,Yes
+320,400000.0,ben arous,ezzahra,145.0,3,1,bon etat,Yes,No,No,No,No,Yes,No,No
+321,140000.0,ben arous,rades,67.0,2,1,bon etat,No,No,No,No,No,No,No,No
+322,430000.0,ben arous,ezzahra,165.0,3,1,renovated,No,Yes,No,No,No,Yes,Yes,Yes
+323,440000.0,ben arous,ezzahra,168.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+324,305000.0,tunis,ain zaghouan nord,112.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+325,145000.0,ben arous,rades,80.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+326,249998.0,ben arous,mohamedia,255.0,2,1,new,Yes,No,No,No,No,No,No,No
+327,260000.0,ariana,jardins el menzah,108.0,2,1,bon état,Non,No,No,No,No,Yes,No,Yes
+328,220000.0,tunis,marsa,50.0,1,1,bon etat,No,No,No,No,No,No,No,No
+329,3200000.0,tunis,menzah 9,131.0,4,2,bon etat,No,No,No,No,No,Yes,No,No
+330,155000.0,manouba,douar hicher,64.0,1,1,bon état,No,Yes,No,No,No,No,No,No
+331,650000.0,tunis,ain zaghouan nord,175.0,3,3,bon etat,No,Yes,No,No,No,No,No,Yes
+333,450000.0,ariana,ennasr 2,135.0,3,2,bon état,No,Yes,No,No,No,Yes,Yes,Yes
+334,235000.0,ariana,riadh andalous,120.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+335,208000.0,ariana,menzah 7,74.0,2,1,bon état,No,No,No,No,No,Yes,No,No
+336,168000.0,tunis,aouina,42.0,1,1,good condition,No,Yes,No,No,No,Yes,No,Yes
+337,315000.0,ariana,menzah 7,115.0,1,1,new,No,Yes,No,No,No,Yes,Yes,Yes
+338,290000.0,tunis,aouina,120.0,2,1,new,No,No,No,No,No,Yes,Yes,No
+339,520000.0,tunis,aouina,167.0,3,2,new,No,Yes,No,No,No,Yes,Yes,No
+340,120000.0,manouba,manouba,100.0,2,1,bon etat,No,No,No,No,No,No,No,No
+341,160000.0,ben arous,rades,75.0,2,1,bon état,Yes,No,No,No,No,No,Yes,No
+342,415000.0,ariana,ghazela,154.0,3,2,New,No,No,No,No,No,Yes,No,Yes
+343,135000.0,tunis,lafayette,60.0,2,1,bon état,No,No,No,No,No,No,No,No
+344,162000.0,tunis,ain zaghouan sud,40.0,1,1,new,No,No,No,No,No,Yes,Yes,Yes
+345,734000.0,tunis,ain zaghouan sud,163.0,3,2,new,No,Yes,Yes,No,No,Yes,Yes,Yes
+346,578000.0,tunis,ain zaghouan sud,123.0,2,2,new,No,Yes,Yes,No,No,Yes,Yes,Yes
+347,415000.0,ariana,riadh andalous,143.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+348,275000.0,tunis,aouina,300.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+349,570000.0,tunis,jardins de carthage,112.0,2,1,bon etat,No,No,No,No,No,No,No,No
+350,120000.0,ben arous,mourouj,85.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+351,180000.0,ben arous,megrine,90.0,3,1,bon etat,No,No,No,No,No,No,No,No
+352,125000.0,tunis,agba,73.5,2,1,bon état,No,No,No,No,No,Yes,No,No
+353,175000.0,ben arous,mornag,125.0,2,2,bon etat,No,Yes,No,No,Yes,Yes,No,Yes
+354,900000.0,tunis,marsa,485.0,3,2,bon etat,No,No,No,No,No,No,No,No
+355,240000.0,ben arous,ezzahra,130.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+356,180000.0,tunis,ain zaghouan,74.0,1,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+357,235000.0,ben arous,mourouj 6,107.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+358,120000.0,ben arous,mourouj 5,103.0,2,1,bon état,No,Yes,No,No,No,Yes,No,No
+359,100000.0,ben arous,mourouj 1,68.0,3,1,bon état,No,Yes,No,No,No,Yes,No,No
+361,200000.0,ben arous,mourouj 4,94.0,2,1,bon etat,No,Yes,No,No,No,No,No,Yes
+362,105000.0,ben arous,mourouj 5,84.0,2,1,New,No,Yes,No,No,No,No,No,No
+363,135000.0,ben arous,mourouj 1,103.0,3,1,bon etat,No,No,No,No,No,No,No,No
+364,108000.0,ben arous,mourouj 5,86.0,2,1,bon etat,No,Yes,No,No,No,Yes,No,No
+365,103000.0,ben arous,mourouj 5,84.0,3,1,bon etat,No,Yes,No,No,No,Yes,No,No
+366,125000.0,ariana,borj louzir,67.0,2,1,bon état,No,No,No,No,No,Yes,No,No
+367,375000.0,ariana,soukra,130.0,3,2,new,No,Yes,No,No,No,No,No,No
+368,424000.0,tunis,ain zaghouan nord,111.0,2,2,New,No,yes,No,No,No,!Yes,No,Yes
+369,580000.0,ariana,soukra,160.0,3,2,new,No,Yes,No,No,No,No,No,No
+370,260000.0,tunis,tunis,100.0,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+371,250000.0,tunis,ain zaghouan,80.0,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+372,385000.0,tunis,gammarth,125.0,2,1,bon etat,No,No,No,No,No,yes,yes,Yes
+373,120000.0,ariana,borj louzir,78.0,3,1,bon etat,No,Yes,No,No,No,No,No,No
+374,165000.0,ariana,soukra,55.0,1,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+375,185000.0,tunis,ain zaghouan,58.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+376,330000.0,tunis,aouina,142.0,4,2,renovated,No,Yes,No,No,No,No,No,No
+377,400000.0,ariana,soukra,118.0,2,1,new,No,Yes,No,No,No,Yes,Yes,No
+378,169000.0,manouba,manouba,104.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+379,275000.0,ariana,ennasr,100.0,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+380,280000.0,tunis,jardins de carthage,67.0,2,1,bon etat,No,No,No,No,No,No,No,No
+381,265000.0,tunis,aouina,132.0,3,2,bon etat,No,No,No,No,No,Yes,Yes,No
+382,185000.0,tunis,aouina,60.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+383,365000.0,tunis,aouina,136.0,5,2,bon etat,No,No,No,No,No,Yes,Yes,No
+384,350000.0,tunis,aouina,118.0,3,1,new,No,Yes,No,No,No,Yes,Yes,No
+385,185000.0,tunis,tunis,92.0,2,1,bon état,No,No,No,No,No,No,No,No
+386,185000.0,ben arous,medina jedida,75.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+387,350000.0,ben arous,megrine,97.4,2,2,bon etat,No,No,No,No,No,Yes,Yes,Yes
+388,215000.0,ben arous,mornag,130.0,2,1,new,No,No,No,No,No,Yes,No,No
+389,220000.0,ariana,ariana ville,145.0,5,2,newly redeveloped,No,Yes,No,No,No,Yes,No,No
+390,210000.0,ben arous,mohamedia,120.0,4,2,bon etat,No,Yes,No,No,No,No,No,No
+391,330000.0,tunis,aouina,102.0,3,2,bon état,No,Yes,No,No,No,Yes,No,Yes
+392,300000.0,tunis,tunis belvedere,85.0,3,1,bon état,No,No,No,No,No,Yes,No,Yes
+393,185000.0,ariana,ennasr 2,70.0,1,1,bon etat,No,Yes,No,No,No,Yes,No,Yes
+394,210000.0,ariana,soukra,51.0,1,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+395,119998.0,tunis,tunis,80.0,2,1,bon état,No,No,No,No,No,No,No,No
+396,360000.0,tunis,marsa,148.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+397,335000.0,tunis,aouina,107.0,2,1,bon état,No,Yes,No,No,No,Yes,No,Yes
+398,350000.0,tunis,lac 1,125.0,3,2,bon etat,No,Yes,No,No,No,Yes,No,No
+399,200000.0,tunis,tunis,105.0,4,2,new,No,No,No,No,No,Yes,Yes,No
+400,440000.0,ariana,menzah 7,225.0,3,2,bon etat,Yes,Yes,No,No,No,Yes,No,No
+401,200000.0,tunis,manar 2,90.0,2,2,new,No,No,No,No,No,Yes,Yes,Yes
+402,420000.0,tunis,centre urbain nord,125.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+403,390000.0,tunis,aouina,143.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+404,390000.0,tunis,ain zaghouan,109.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+405,680000.0,tunis,tunis,134.4,3,3,bon etat,No,Yes,No,No,No,Yes,No,No
+406,210000.0,tunis,ain zaghouan,73.0,1,1,new,No,Yes,No,No,No,Yes,Yes,1
+407,340000.0,tunis,kram,135.0,2,2,bon etat,No,No,No,Yes,No,Yes,Yes,Yes
+408,230000.0,tunis,carthage,100.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+409,130000.0,ariana,borj louzir,75.0,2,1,bon etat,No,Yes,No,No,No,Yes,No,No
+410,290000.0,tunis,kram,99.0,3,2,bon etat,No,No,No,No,No,Yes,Yes,No
+411,480000.0,tunis,gammarth,190.0,3,2,bon etat,No,No,No,No,No,Yes,Yes,No
+412,270000.0,tunis,ain zaghouan,112.0,2,2,bon etat,No,No,No,No,No,Yes,Yes,No
+413,235000.0,ariana,ariana essoughra,123.0,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+414,315000.0,tunis,kram,120.0,3,2,bon etat,No,No,No,Yes,No,Yes,No,No
+417,445000.0,ben arous,ezzahra,146.0,4,1,bon etat,No,No,No,No,No,Yes,Yes,No
+418,780000.0,tunis,ain zaghouan sud,228.0,4,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+419,210000.0,ben arous,rades,115.0,2,1,bon etat,Yes,Yes,No,No,No,No,No,No
+420,325000.0,ben arous,ezzahra,150.0,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+421,500000.0,ben arous,ben arous,520.0,6,2,bon etat,Yes,No,No,No,No,No,No,No
+422,495000.0,ariana,chotrana 1,157.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+423,350000.0,ariana,chotrana 1,120.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+424,190000.0,tunis,menzah 1,71.0,2,1,bon état,No,No,No,No,No,Yes,No,No
+425,388893.0,ariana,chotrana 2,90.47,3,1,new,No,Yes,No,No,No,Yes,Yes,No
+426,125000.0,ben arous,mourouj,100.0,2,1,bon etat,No,No,No,No,No,No,No,No
+427,364000.0,ariana,ghazela,129.0,2,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+428,370000.0,tunis,kram,130.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+429,200000.0,ariana,menzah 7,70.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+430,380000.0,tunis,ain zaghouan nord,85.0,2,1,new,No,Yes,No,No,No,No,No,Yes
+431,100000.0,ben arous,borj cedria,80.0,2,1,bon etat,No,No,No,No,No,No,No,No
+432,800000.0,tunis,bab souika,250.0,4,1,bon etat,No,No,No,No,No,Yes,Yes,No
+433,250000.0,ben arous,mourouj 6,115.0,4,2,bon etat,No,Yes,No,No,No,Yes,No,Yes
+434,320000.0,ariana,soukra,115.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+435,260000.0,ben arous,medina jedida,107.0,2,2,new,No,No,Yes,No,No,No,Yes,Yes
+436,230000.0,tunis,aouina,90.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+437,228000.0,tunis,aouina,70.0,1,1,new,No,No,No,No,No,Yes,Yes,Yes
+438,330000.0,tunis,aouina,111.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+439,335000.0,tunis,aouina,140.0,3,1,good condition,No,Yes,No,No,No,Yes,Yes,Yes
+441,800000.0,ariana,soukra,221.0,4,2,new,Yes,Yes,No,No,No,Yes,Yes,No
+442,575000.0,ariana,soukra,175.0,3,3,new,No,Yes,No,No,No,Yes,Yes,No
+444,250000.0,,tunis,125.0,2,1,bon etat,No,No,No,Yes,No,No,No,No
+445,182000.0,manouba,manouba,102.0,3,2,bon etat,No,No,No,No,No,No,No,No
+447,169000.0,tunis,aouina,51.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+448,125000.0,tunis,el ouardia,73.0,2,1,well maintained,No,Yes,No,No,No,No,No,No
+449,260000.0,manouba,manouba,102.0,2,2,bon état,No,Yes,No,No,No,Yes,No,No
+450,670000.0,tunis,jardins de carthage,140.0,2,1,new,No,No,No,No,No,No,No,No
+451,210000.0,tunis,ain zaghouan,73.0,1,1,new,No,Yes,No,No,No,Yes,Yes,Yes
+452,165000.0,ariana,ariana,110.0,3,1,bon etat,No,Yes,No,No,No,No,No,No
+453,143000.0,ariana,cite ennkhilet,74.0,3,1,bon etat,No,No,No,No,No,Yes,No,No
+454,705000.0,ariana,ennasr 2,190.0,3,3,new,No,Yes,No,No,No,Yes,Yes,No
+455,118000.0,ben arous,mourouj 5,85.0,2,1,bon état,No,No,No,No,No,Yes,No,No
+456,130000.0,ben arous,boumhel,78.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+457,422000.0,tunis,aouina,130.0,3,2,new,No,Yes,No,No,No,Yes,No,Yes
+458,188000.0,tunis,aouina,77.0,1,1,bon état,No,Yes,No,No,No,Yes,No,Yes
+459,420000.0,tunis,jardins de carthage,36.0,2,1,new,No,Yes,No,No,No,Yes,Yes,No
+460,295002.0,tunis,aouina,127.0,2,2,bon etat,No,Yes,No,No,No,No,Yes,Yes
+461,325000.0,ben arous,ezzahra,126.0,3,1,bon etat,No,No,No,No,No,Yes,Yes,No
+464,285000.0,ariana,chotrana 1,122.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+465,420000.0,tunis,manar 2,155.0,4,2,renovated,No,No,No,No,No,No,No,Yes
+466,315000.0,manouba,manouba ville,117.0,3,1,newly built,No,Yes,No,No,No,Yes,Yes,Yes
+467,164000.0,manouba,manouba,90.0,3,1,bon état,Yes,No,No,No,No,No,Yes,No
+468,370000.0,ariana,ennasr,128.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+469,295000.0,ariana,raoued,130.0,3,2,new,No,No,No,No,No,Yes,Yes,Yes
+470,580000.0,ariana,ariana ville,130.0,3,1,bon etat,No,No,No,No,No,No,No,No
+471,270000.0,tunis,menzah 9,76.0,2,1,new,No,No,No,No,No,Yes,Yes,No
+472,409000.0,tunis,menzah 9,118.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+473,275000.0,ariana,ennasr 2,137.0,3,1,bon etat,No,Yes,No,No,No,No,No,No
+474,490000.0,tunis,menzah 9,213.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+475,215000.0,tunis,aouina,87.0,2,1,new,No,No,No,No,No,Yes,Yes,No
+476,330000.0,tunis,ain zaghouan,140.0,3,1,bon etat,No,Yes,No,No,No,No,Yes,No
+477,205000.0,tunis,aouina,65.0,1,1,new,No,Yes,No,No,No,Yes,Yes,No
+478,195000.0,tunis,aouina,67.0,1,1,bon état,No,No,No,No,No,Yes,Yes,No
+479,285000.0,tunis,aouina,150.0,3,2,bon état,No,Yes,No,No,No,Yes,Yes,No
+480,460000.0,tunis,menzah 9,138.0,3,2,bon etat,No,No,No,No,No,Yes,Yes,No
+481,255000.0,ariana,jardins menzah 1,110.0,2,1,new,No,Yes,No,No,No,No,No,No
+482,539000.0,tunis,jardins de carthage,132.0,2,1,modern,Yes,Yes,No,No,No,Yes,Yes,No
+483,365000.0,tunis,aouina,143.0,4,1,bon etat,No,Yes,No,No,No,No,No,No
+484,297000.0,ariana,soukra,67.0,1,1,new,No,Yes,No,No,No,Yes,Yes,No
+485,330000.0,tunis,ain zaghouan sud,130.0,2,1,bon etat,No,No,No,No,No,No,No,No
+486,120000.0,ariana,raoued,70.0,3,1,bon etat,No,Yes,No,No,No,No,Yes,No
+487,299000.0,ariana,menzah 7,115.0,2,1,new,No,Yes,No,No,No,Yes,Yes,Yes
+488,155000.0,tunis,bab souika,73.0,3,1,old,No,No,No,No,No,No,No,No
+489,270000.0,ariana,ennasr 2,78.0,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+490,178000.0,ariana,jardins menzah 2,53.0,2,1,bon etat,No,Yes,No,No,No,Yes,No,No
+491,120000.0,ariana,raoued,76.0,3,1,bon etat,No,Yes,No,No,No,Yes,No,No
+492,400000.0,tunis,manar 2,150.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+493,225000.0,tunis,aouina,90.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+494,330000.0,tunis,aouina,142.0,3,1,bon etat,No,Yes,No,No,No,No,No,No
+495,315000.0,tunis,aouina,107.0,2,2,new,No,Yes,No,No,No,No,No,No
+496,630000.0,ariana,jardins menzah 2,261.0,3,2,bon etat,No,No,No,No,No,Yes,Yes,No
+497,260000.0,tunis,manar 2,95.0,4,2,bon etat,No,No,No,No,No,Yes,No,No
+498,270000.0,tunis,ain zaghouan nord,104.0,2,1,new,No,No,No,No,No,Yes,Yes,No
+499,175000.0,tunis,ksar said,90.0,2,1,excellent condition,Yes,Yes,No,No,No,Yes,No,No
+500,140000.0,manouba,manouba,94.0,3,2,bon etat,No,No,No,No,No,No,No,No
+501,154000.0,ben arous,medina jedida,54.0,1,1,new,No,No,No,No,No,Yes,No,No
+503,78000.0,tunis,ksar said,70.0,2,2,bon etat,No,No,No,No,No,No,No,No
+504,110000.0,tunis,tunis,90.0,3,1,bon etat,No,No,No,No,No,No,No,No
+505,99000.0,tunis,ksar said,100.0,4,2,bon etat,No,No,No,No,No,No,No,No
+506,550000.0,ben arous,rades,220.0,6,2,bon etat,Yes,Yes,No,No,No,No,No,No
+507,295896.0,tunis,jardins de carthage,51.49,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+508,500181.0,tunis,jardins de carthage,92.81,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+510,140000.0,manouba,denden,98.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+511,160000.0,tunis,el ouardia,111.0,3,1,bon etat,No,No,No,No,No,No,No,No
+512,850000.0,tunis,lac 2,210.0,3,3,bon etat,No,Yes,No,No,No,No,No,No
+513,795000.0,tunis,lac 2,180.0,3,2,bon etat,No,Yes,No,No,No,No,No,No
+514,360000.0,ben arous,ezzahra,156.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+515,329000.0,tunis,aouina,115.0,2,1,bon etat,No,Yes,No,No,No,Yes,No,Yes
+516,590000.0,ariana,soukra,169.0,4,2,bon etat,No,Yes,No,No,No,No,No,No
+518,110000.0,ben arous,ezzahra,50.0,2,1,bon etat,No,No,No,No,No,No,No,No
+520,150000.0,ariana,ghazela,120.0,2,1,new,No,No,No,No,No,Yes,Yes,No
+521,265000.0,ariana,ennasr 2,115.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+522,269000.0,tunis,aouina,87.0,3,1,bon etat,No,No,No,No,No,Yes,Yes,No
+523,215000.0,tunis,aouina,90.0,2,1,bon etat,No,No,No,No,No,No,No,No
+524,265000.0,ariana,soukra,70.0,1,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+525,545000.0,ariana,soukra,147.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+526,160000.0,tunis,lafayette,100.0,3,1,bon état,No,No,No,No,No,No,No,No
+527,230000.0,tunis,bardo,74.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+528,370000.0,tunis,lac 1,106.0,2,2,bon etat,No,No,No,No,No,No,No,No
+529,300000.0,tunis,aouina,124.0,4,2,bon etat,No,Yes,No,No,No,No,No,No
+530,125000.0,ariana,ariana essoughra,85.0,2,1,bon etat,No,No,No,No,No,No,No,No
+531,713600.0,ariana,ennasr 2,223.0,5,3,bon état,No,No,No,No,No,Yes,Yes,No
+532,280000.0,ariana,jardins menzah 1,104.0,3,1,bon etat,No,Yes,No,No,No,No,No,Yes
+533,250000.0,tunis,aouina,80.0,2,1,new,No,No,No,No,No,Yes,Yes,Yes
+534,300000.0,tunis,manar 2,190.0,4,2,bon etat,No,No,No,No,No,No,No,No
+535,110000.0,ben arous,mourouj 5,74.0,2,1,bon etat,No,Yes,No,No,No,No,No,No
+536,415000.0,ariana,riadh andalous,154.0,3,2,new,No,No,No,No,No,No,No,No
+537,230000.0,ariana,chotrana 1,44.0,1,1,new,No,No,No,No,No,No,No,No
+538,625000.0,ariana,chotrana 1,140.0,4,2,new,Yes,Yes,No,No,No,No,No,No
+539,386000.0,ariana,dar fadhal,133.0,3,2,new,No,No,No,No,No,No,No,No
+540,550000.0,tunis,la goulette,144.0,3,2,new,No,Yes,No,No,No,Yes,Yes,No
+541,350000.0,ariana,soukra,150.0,3,1,bon etat,No,Yes,No,No,No,Yes,No,No
+542,195000.0,ben arous,ezzahra,70.0,2,1,new,No,Yes,No,No,No,No,No,No
+543,320000.0,tunis,aouina,124.0,3,2,bon etat,No,Yes,No,No,No,Yes,No,No
+544,250000.0,ben arous,mourouj 5,71.0,3,1,bon etat,No,Yes,No,No,No,Yes,No,No
+545,550000.0,ben arous,hammam lif,350.0,5,3,bon etat,Yes,Yes,No,No,No,Yes,Yes,No
+546,1200000.0,ben arous,ezzahra,508.0,7,2,bon etat,Yes,Yes,No,No,No,No,No,No
+547,125000.0,tunis,bardo,50.0,2,1,bon etat,No,No,No,No,No,Yes,No,No
+548,315000.0,ariana,ennasr 2,115.0,3,2,bon etat,No,No,No,No,No,Yes,Yes,Yes
+549,350000.0,ariana,ennasr 2,135.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+550,335000.0,ariana,soukra,123.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+551,175000.0,ariana,ennasr,70.0,2,1,bon etat,No,Yes,No,No,No,No,No,Yes
+552,230000.0,tunis,la goulette,54.0,1,1,bon etat,No,No,No,Yes,No,No,No,Yes
+553,499000.0,ariana,soukra,167.0,4,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+554,135000.0,ben arous,mourouj 6,64.0,2,1,bon etat,No,Yes,No,No,No,Yes,Yes,No
+555,148000.0,manouba,manouba,60.0,1,1,bon etat,No,No,No,No,No,No,No,No
+556,300000.0,ariana,jardins menzah 2,129.3,3,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+557,160000.0,ariana,soukra,52.0,1,1,bon etat,No,Yes,No,No,No,Yes,No,Yes
+558,170000.0,ariana,ennasr 2,54.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,Yes
+559,260000.0,ariana,ennasr 2,78.0,3,1,bon etat,No,Yes,No,No,No,Yes,Yes,Yes
+560,170000.0,tunis,manar 2,75.0,2,2,bon etat,No,Yes,No,No,No,Yes,No,No
+561,295000.0,tunis,manar 2,135.0,4,2,bon etat,No,No,No,No,No,Yes,No,No
+562,275000.0,ariana,jardins el menzah,102.0,2,1,new,No,Yes,No,No,No,Yes,Yes,No
+563,109997.0,ben arous,ezzahra,50.0,2,1,bon etat,No,No,No,No,No,No,No,No
+564,245000.0,ariana,ghazela,110.0,4,2,bon etat,No,No,No,No,No,Yes,No,No
+565,450000.0,tunis,gammarth,138.0,2,2,bon etat,No,No,No,No,No,Yes,Yes,No
+566,537503.0,ariana,chotrana 2,139.6,3,2,bon état,No,Yes,No,No,No,Yes,Yes,No
+567,641737.0,ariana,chotrana 2,141.2,3,2,new,Yes,Yes,No,No,No,Yes,Yes,No
+568,482160.0,ariana,chotrana 2,115.19,2,1,bon état,No,Yes,No,No,No,Yes,No,No
+569,457043.0,ben arous,boumhel,113.73,2,1,new,No,Yes,No,No,No,Yes,No,No
+570,515665.0,ben arous,boumhel,138.35,3,2,new,No,No,No,No,No,Yes,Yes,No
+571,473000.0,ariana,ghazela,154.0,3,2,new,Yes,Yes,No,No,No,Yes,Yes,No
+572,227000.0,ariana,soukra,81.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+573,360000.0,ariana,soukra,170.0,2,1,bon etat,Yes,No,No,No,No,Yes,Yes,No
+574,339300.0,ariana,soukra,117.0,2,1,new,No,No,No,No,No,No,No,No
+575,380000.0,ariana,soukra,115.0,2,1,bon etat,No,No,No,No,No,Yes,Yes,No
+576,380000.0,ariana,ennasr 2,145.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
+577,550000.0,ariana,ennasr,176.0,3,3,new,No,Yes,No,No,No,Yes,Yes,No
+578,310000.0,ariana,ennasr 2,119.0,3,2,bon etat,No,Yes,No,No,No,Yes,Yes,No
