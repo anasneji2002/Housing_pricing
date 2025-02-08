@@ -32,6 +32,7 @@ jobs:
         conda install pytest
         if find . -type f \( -name "test_*.py" -o -name "*_test.py" \) -exec grep -q "^def test_" {} +; then
           echo "Non-empty test files found. Running pytest..."
+          cd tests
           pytest
         else
             echo "No valid tests to run (files are missing or empty)."
