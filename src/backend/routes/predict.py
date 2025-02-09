@@ -4,7 +4,7 @@ import os
 from backend.schemas import PredictionRequest, CITY_MAPPING
 
 # Load trained model (update path if needed)
-MODEL_PATH = os.path.join(os.path.dirname(__file__), "..", "models", "model.pkl")
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "models", "model.pkl")
 
 try:
     model = joblib.load(MODEL_PATH)

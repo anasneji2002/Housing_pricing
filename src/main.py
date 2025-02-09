@@ -1,27 +1,28 @@
 # Import everything from the src package (i.e., from all the __init__.py files)
-from src import evaluate_model, train_model, build_features, load_data, plot_results
+import os
+import pickle
+import sys
+
+sys.path.append('../')
+
+from src.models.train_model import train_model  # noqa: E402
+from src.data.load_data import load_data  # noqa: E402
 
 
 def main():
     # Step 1: Load data
     print("Loading data...")
-    data = load_data("data/raw/data.csv")
+    data = load_data()
 
-    # Step 2: Feature engineering
-    print("Building features...")
-    features = build_features(data)
-
-    # Step 3: Train model
+    # Step 2: Train model
     print("Training model...")
-    model = train_model(features)
+    model = train_model(data)
 
-    # Step 4: Evaluate model
-    print("Evaluating model...")
-    evaluation_results = evaluate_model(model, features)
-
-    # Step 5: Visualize results
-    print("Visualizing results...")
-    plot_results(evaluation_results)
+    # Step 3: Save model
+    print("Saving model...")
+    MODEL_PATH = f"{os.getcwd()}\\models\\model.pkl"
+    with open(MODEL_PATH, 'wb') as f:
+        pickle.dump(model, f)
 
     print("Project completed successfully!")
 
