@@ -1,5 +1,6 @@
 import joblib
 import os
+
 from backend.schemas import PredictionRequest, CITY_MAPPING
 
 # Load trained model (update path if needed)
@@ -11,7 +12,9 @@ except Exception as e:
     print(f"⚠️ Model not found: {e}")
     model = None
 
+
 def predict_price(request: PredictionRequest):
+    """Predict house price based on input features."""
     if model is None:
         raise ValueError("Model is not loaded. Ensure 'model.pkl' exists.")
 
@@ -19,17 +22,17 @@ def predict_price(request: PredictionRequest):
     city_id = CITY_MAPPING.get(request.city, 0)  # Default to 0 if not found
 
     features = [
-        request.surface, 
+        request.surface,
         city_id,  # Use city ID instead of name
-        request.rooms, 
-        request.bathrooms, 
+        request.rooms,
+        request.bathrooms,
         request.parking,
-        request.pool, 
-        request.vue_panoramique, 
-        request.jardin, 
-        request.climatisation, 
-        request.chauffage_central, 
-        request.ascenseur
+        request.pool,
+        request.vue_panoramique,
+        request.jardin,
+        request.climatisation,
+        request.chauffage_central,
+        request.ascenseur,
     ]
 
     prediction = model.predict([features])[0]
