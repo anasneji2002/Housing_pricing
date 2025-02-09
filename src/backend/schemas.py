@@ -1,19 +1,41 @@
+import json
+import os
 from pydantic import BaseModel
 from typing import Literal
 
-# Define available cities with IDs
-CITY_MAPPING = {
-    "lac 2": 1, "chotrana 3": 2, "menzah 9": 3, "lac 1": 4, "jardins de carthage": 5,
-    "manar 2": 6, "kram": 7, "gammarth": 8, "ain zaghouan sud": 9, "carthage": 10,
-    "chotrana 2": 11, "marsa": 12, "la goulette": 13, "menzah": 14, "sidi daoud": 15,
-    "soukra": 16, "ain zaghouan": 17, "borj cedria": 18, "menzah 5": 19, "chotrana 1": 20,
-}
+# Load city mapping dynamically
+CITY_MAPPING_PATH = os.path.join(
+    os.path.dirname(__file__), "..", "..", "utils", "city_mapping.json"
+)
 
 
-# Define the request format for predictions
+def load_city_mapping():
+    """Loads the city mapping from a JSON file."""
+    try:
+        with open(CITY_MAPPING_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        print("⚠️ Error: city_mapping.json not found.")
+        return {}
+    except json.JSONDecodeError:
+        print("⚠️ Error: Invalid JSON format in city_mapping.json.")
+        return {}
+    except Exception as e:
+        print(f"⚠️ Unexpected error loading city mapping: {e}")
+        return {}
+
+
+CITY_MAPPING = load_city_mapping()
+
+# Ensure at least one city exists for Literal validation
+CITY_KEYS = list(CITY_MAPPING.keys()) if CITY_MAPPING else ["unknown_city"]
+
+
 class PredictionRequest(BaseModel):
+    """Defines the expected input format for price prediction requests."""
+
     surface: float
-    city: Literal[*CITY_MAPPING.keys()]  # Restrict city names to predefined list
+    city: Literal[*CITY_KEYS]  # Restrict city names to predefined list
     rooms: int
     bathrooms: int
     parking: int
@@ -25,6 +47,7 @@ class PredictionRequest(BaseModel):
     ascenseur: int
 
 
-# Define response format
 class PredictionResponse(BaseModel):
+    """Defines the response format for predicted prices."""
+
     predicted_price: float
