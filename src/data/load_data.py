@@ -6,15 +6,12 @@ import glob
 def load_data():
     # Set the paths
     template_path = f"{os.getcwd()}/../utils/dataset_template.csv"
-    processed_data_path = f"{os.getcwd()}\\..\\data\\processed"
+    processed_data_path = f"{os.getcwd()}/../data/processed"  # when running locally switch to \\ instead of / in case of an error
 
     # Load the template file
     template_df = pd.read_csv(template_path)
 
-    print(f"Template columns: {template_df.columns}")
-
     # Get all CSV files in the processed data directory that match the template
-    print("processed_data_path: ", f"{processed_data_path}/*.csv")
     csv_files = glob.glob(f"{processed_data_path}/*.csv")
     print("csv_files: ", csv_files)
 
@@ -25,7 +22,6 @@ def load_data():
     for csv_file in csv_files:
         # Load each CSV file
         df = pd.read_csv(csv_file)
-        print("df: ", df.head())
 
         # Check if the file matches the template (compare columns)
         if df.columns.equals(template_df.columns):
@@ -37,5 +33,4 @@ def load_data():
     else:
         final_df = pd.DataFrame()
 
-    print("final_df: ", final_df.head())
     return final_df
