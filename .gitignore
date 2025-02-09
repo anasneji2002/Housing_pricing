@@ -19,11 +19,6 @@ ENV/
 # Logs
 *.log
 
-# Model checkpoints (if any)
-model_checkpoints/
-*.h5
-*.pkl
-
 # Temporary files
 *.bak
 *.swp
