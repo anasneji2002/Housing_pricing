@@ -10,3 +10,11 @@ dependencies:
   - pytest
   - pre-commit
   - flake8
+  - pip
+  - pip:
+      - streamlit
+      - fastapi
+      - uvicorn
+      - requests
+      - pydantic
+      - joblib
