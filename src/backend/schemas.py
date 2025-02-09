@@ -9,6 +9,7 @@ CITY_MAPPING = {
     "soukra": 16, "ain zaghouan": 17, "borj cedria": 18, "menzah 5": 19, "chotrana 1": 20,
 }
 
+
 # Define the request format for predictions
 class PredictionRequest(BaseModel):
     surface: float
@@ -22,6 +23,7 @@ class PredictionRequest(BaseModel):
     climatisation: int
     chauffage_central: int
     ascenseur: int
+
 
 # Define response format
 class PredictionResponse(BaseModel):
