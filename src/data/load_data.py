@@ -14,6 +14,7 @@ def load_data():
     print(f"Template columns: {template_df.columns}")
 
     # Get all CSV files in the processed data directory that match the template
+    print("processed_data_path: ", f"{processed_data_path}/*.csv")
     csv_files = glob.glob(f"{processed_data_path}/*.csv")
     print("csv_files: ", csv_files)
 
